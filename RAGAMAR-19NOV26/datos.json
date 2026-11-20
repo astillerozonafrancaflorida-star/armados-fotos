@@ -1,0 +1,131 @@
+{
+ "nombre": "RAGAMAR 19NOV26",
+ "pedido": [
+  "A5500-EF",
+  "A5502-EF"
+ ],
+ "cliente": "RAGAMAR SA",
+ "entrega": "MARIO FREE SHOP",
+ "armo": "Brian",
+ "fecha": "2026-11-19T13:21:58.002Z",
+ "lineas": [
+  {
+   "code": "3373",
+   "name": "VINO GAJA PIEVE SANTA RESTITUTA BRUNELLO DI MONTALCINO 2021 750 ML",
+   "qty": 90,
+   "upc": 6,
+   "armado": 90
+  },
+  {
+   "code": "3368",
+   "name": "VINO GAJA BARBARESCO TINTO 2023 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "3364",
+   "name": "VINO GAJA CAMARCANDA PROMIS TINTO 2024 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "3367",
+   "name": "VINO GAJA DAGROMIS BAROLO TINTO 2022 750 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "2563",
+   "name": "CHAMPAGNE BILLECART SALMON LE BLANC DE BLANCS 750 ML",
+   "qty": 6,
+   "upc": 12,
+   "armado": 6
+  },
+  {
+   "code": "3274",
+   "name": "CHAMPAGNE BILLECART SALMON DEMI SEC 750 ML",
+   "qty": 6,
+   "upc": 6,
+   "armado": 6
+  },
+  {
+   "code": "2561",
+   "name": "CHAMPAGNE BILLECART SALMON LE ROSE 1500 ML",
+   "qty": 1,
+   "upc": 3,
+   "armado": 1
+  }
+ ],
+ "ents": [
+  {
+   "code": "3373",
+   "total": 90,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795093193141
+  },
+  {
+   "code": "3367",
+   "total": 36,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795093240021
+  },
+  {
+   "code": "3368",
+   "total": 12,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795093258971
+  },
+  {
+   "code": "3364",
+   "total": 12,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795093286710
+  },
+  {
+   "code": "2561",
+   "total": 1,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795093305415
+  },
+  {
+   "code": "2563",
+   "total": 6,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795093404055
+  },
+  {
+   "code": "3274",
+   "total": 6,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795093436043
+  }
+ ],
+ "nuevos": {},
+ "cajasN": {
+  "8194929872816": "3373"
+ },
+ "lotes": [],
+ "fotos": [
+  "P1_cara1.jpg",
+  "P1_cara2.jpg",
+  "P1_cara3.jpg",
+  "P1_cara4.jpg",
+  "producto_3373_P1_tb0.jpg",
+  "producto_3367_P1_zca.jpg",
+  "producto_3368_P1_wes.jpg",
+  "producto_3364_P1_bsi.jpg",
+  "producto_2561_P1_0et.jpg",
+  "producto_2563_P1_5q3.jpg",
+  "producto_3274_P1_lwo.jpg"
+ ]
+}

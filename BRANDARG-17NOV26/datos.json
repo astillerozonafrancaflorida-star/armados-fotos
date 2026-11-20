@@ -1,0 +1,39 @@
+{
+ "nombre": "BRANDARG 17NOV26",
+ "pedido": [
+  "A5505-EF"
+ ],
+ "cliente": "BRANDARG SAS",
+ "entrega": "BRANDARG SAS",
+ "armo": "Brian",
+ "fecha": "2026-11-17T19:53:56.547Z",
+ "lineas": [
+  {
+   "code": "2563",
+   "name": "CHAMPAGNE BILLECART SALMON LE BLANC DE BLANCS 750 ML",
+   "qty": 60,
+   "upc": 12,
+   "armado": 60
+  }
+ ],
+ "ents": [
+  {
+   "code": "2563",
+   "total": 60,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1794944710223
+  }
+ ],
+ "nuevos": {},
+ "cajasN": {
+  "11": "2563"
+ },
+ "fotos": [
+  "P1_cara1.jpg",
+  "P1_cara2.jpg",
+  "P1_cara3.jpg",
+  "P1_cara4.jpg",
+  "producto_2563_P1_x8v.jpg"
+ ]
+}

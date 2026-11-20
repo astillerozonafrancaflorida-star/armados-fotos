@@ -1,0 +1,9 @@
+*ARMADO A5520 — FM RADIO INTEGRACION 101.5 MHZ S.R.L.*
+Armó: Natalia · 19/11 12:03
+✅ Completo: 7/7 líneas OK · 192/192 botellas
+
+*Pallets:*
+*P1:* 75 (4 cj) · 622 (8 cj) · 966 (1 cj + 6 u.) · 2234 (6 cj) · 2398 (1 cj + 6 u.) · 3132 (1 cj) · 3174 (6 cj) · 📷 4/4
+
+*Códigos de CAJA nuevos (cargar en Odoo):*
+• 3049614227141 → 622 CHAMPAGNE VEUVE CLICQUOT BRUT CON ESTUCHE 750 ML (caja x6)

@@ -1,0 +1,70 @@
+{
+ "nombre": "HIPER 18NOV26",
+ "pedido": [
+  "A5547-EF"
+ ],
+ "cliente": "HIPER T Y N SRL",
+ "entrega": "HIPER FREE SHOP",
+ "armo": "Natalia",
+ "fecha": "2026-11-18T14:13:41.028Z",
+ "lineas": [
+  {
+   "code": "2339",
+   "name": "VINO JERMANN VINTAGE TUNINA 2022 750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "2340",
+   "name": "VINO JERMANN WHERE DREAMS 2022 750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "3189",
+   "name": "VINO ANTINORI TIGNANELLO 2023 750 ML",
+   "qty": 480,
+   "upc": 6,
+   "armado": 480
+  }
+ ],
+ "ents": [
+  {
+   "code": "3189",
+   "total": 480,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795010721788
+  },
+  {
+   "code": "2339",
+   "total": 24,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795010837052
+  },
+  {
+   "code": "2340",
+   "total": 24,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795010954299
+  }
+ ],
+ "nuevos": {},
+ "cajasN": {
+  "12817177": "2339",
+  "8001935124528": "3189"
+ },
+ "fotos": [
+  "P1_cara1.jpg",
+  "P1_cara2.jpg",
+  "P1_cara3.jpg",
+  "P1_cara4.jpg",
+  "producto_3189_P1_bp7.jpg",
+  "producto_2339_P1_ntw.jpg",
+  "producto_2340_P1_l1j.jpg"
+ ]
+}

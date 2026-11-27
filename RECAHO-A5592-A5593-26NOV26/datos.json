@@ -1,0 +1,60 @@
+{
+ "nombre": "RECAHO A5592 A5593 26NOV26",
+ "pedido": [
+  "A5592-EF",
+  "A5593-EF"
+ ],
+ "cliente": "RECAHO SAS",
+ "entrega": "RECAHO SAS",
+ "armo": "Gaston",
+ "fecha": "2026-11-26T15:20:19.361Z",
+ "lineas": [
+  {
+   "code": "966",
+   "name": "LICOR COINTREAU 700 ML",
+   "qty": 600,
+   "upc": 12,
+   "armado": 600
+  },
+  {
+   "code": "75",
+   "name": "LICOR BOTTEGA LIMONCELLO 500 ML",
+   "qty": 96,
+   "upc": 6,
+   "armado": 96
+  }
+ ],
+ "ents": [
+  {
+   "code": "966",
+   "total": 600,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795705318479
+  },
+  {
+   "code": "75",
+   "total": 96,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795705406583
+  }
+ ],
+ "nuevos": {},
+ "cajasN": {
+  "4200": "966",
+  "23035542004200": "966",
+  "8005829510640": "75"
+ },
+ "salt": {},
+ "inicio": 1795704672277,
+ "lotes": [],
+ "fotos": [
+  "P1_cara1.jpg",
+  "P1_cara2.jpg",
+  "P1_cara3.jpg",
+  "P1_cara4.jpg",
+  "producto_966_P1_50b.jpg",
+  "producto_75_P1_uq8.jpg"
+ ]
+}

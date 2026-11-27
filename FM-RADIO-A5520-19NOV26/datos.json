@@ -1,0 +1,130 @@
+{
+ "nombre": "FM RADIO A5520 19NOV26",
+ "pedido": [
+  "A5520-EF"
+ ],
+ "cliente": "FM RADIO INTEGRACION 101.5 MHZ S.R.L.",
+ "entrega": "447 FREE SHOP",
+ "armo": "Natalia",
+ "fecha": "2026-11-19T15:03:45.883Z",
+ "lineas": [
+  {
+   "code": "622",
+   "name": "CHAMPAGNE VEUVE CLICQUOT BRUT CON ESTUCHE 750 ML",
+   "qty": 48,
+   "upc": 6,
+   "armado": 48
+  },
+  {
+   "code": "2234",
+   "name": "CHAMPAGNE VEUVE CLICQUOT RICH ON ICE 750 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "3132",
+   "name": "VINO ERRAZURIZ ESTATE SAUVIGNON BLANC 2025 750 ML",
+   "qty": 12,
+   "upc": 12,
+   "armado": 12
+  },
+  {
+   "code": "2398",
+   "name": "VINO ERRAZURIZ ESTATE CARMENERE 2024 750 ML",
+   "qty": 18,
+   "upc": 12,
+   "armado": 18
+  },
+  {
+   "code": "966",
+   "name": "LICOR COINTREAU 700 ML",
+   "qty": 18,
+   "upc": 12,
+   "armado": 18
+  },
+  {
+   "code": "75",
+   "name": "LICOR BOTTEGA LIMONCELLO 500 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "3174",
+   "name": "CHAMPAGNE VEUVE CLICQUOT BRUT COFFRET ARROW SAO PAULO 750 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  }
+ ],
+ "ents": [
+  {
+   "code": "622",
+   "total": 48,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795099310259
+  },
+  {
+   "code": "2234",
+   "total": 36,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795099356572
+  },
+  {
+   "code": "3132",
+   "total": 12,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795099397847
+  },
+  {
+   "code": "2398",
+   "total": 18,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795099432439
+  },
+  {
+   "code": "966",
+   "total": 18,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795099509514
+  },
+  {
+   "code": "75",
+   "total": 24,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795099540363
+  },
+  {
+   "code": "3174",
+   "total": 36,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795099571209
+  }
+ ],
+ "nuevos": {},
+ "cajasN": {
+  "3049614227141": "622"
+ },
+ "lotes": [],
+ "fotos": [
+  "P1_cara1.jpg",
+  "P1_cara2.jpg",
+  "P1_cara3.jpg",
+  "P1_cara4.jpg",
+  "producto_622_P1_sow.jpg",
+  "producto_2234_P1_edp.jpg",
+  "producto_3132_P1_6ij.jpg",
+  "producto_2398_P1_qg3.jpg",
+  "producto_966_P1_4tn.jpg",
+  "producto_75_P1_phk.jpg",
+  "producto_3174_P1_25u.jpg"
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "nombre": "BRASIL S00359-URUGUAIANA 25NOV26",
+ "pedido": [
+  "S00359-URUGUAIANA"
+ ],
+ "cliente": "BRASIL FREE SHOP SAO JOAO",
+ "entrega": "BRASIL FREE SHOP SAO JOAO (URUGUAIANA)",
+ "armo": "Sebastian",
+ "fecha": "2026-11-25T12:49:31.200Z",
+ "lineas": [
+  {
+   "code": "2519",
+   "name": "ACEITE DE OLIVA EXTRA VIRGEN OLEOCAMPO AJO MARASCA 250 ML",
+   "qty": 48,
+   "upc": 12,
+   "armado": 48
+  },
+  {
+   "code": "2518",
+   "name": "ACEITE DE OLIVA EXTRA VIRGEN OLEOCAMPO ALBAHACA MARASCA 250 ML",
+   "qty": 48,
+   "upc": 12,
+   "armado": 48
+  },
+  {
+   "code": "2520",
+   "name": "ACEITE DE OLIVA EXTRA VIRGEN OLEOCAMPO CHILE MARASCA 250 ML",
+   "qty": 48,
+   "upc": 12,
+   "armado": 48
+  },
+  {
+   "code": "2522",
+   "name": "ACEITE DE OLIVA EXTRA VIRGEN OLEOCAMPO LIMON MARASCA 250 ML",
+   "qty": 48,
+   "upc": 12,
+   "armado": 48
+  },
+  {
+   "code": "2516",
+   "name": "ACEITE DE OLIVA EXTRA VIRGEN OLEOCAMPO TRUFA BLANCA MARASCA 250 ML",
+   "qty": 48,
+   "upc": 12,
+   "armado": 48
+  },
+  {
+   "code": "3174",
+   "name": "CHAMPAGNE VEUVE CLICQUOT BRUT COFFRET ARROW SAO PAULO 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "1104",
+   "name": "DULCE DE LECHE LOS NIETITOS CHOCOLATE 400 GRAMOS",
+   "qty": 96,
+   "upc": 6,
+   "armado": 96
+  },
+  {
+   "code": "2224",
+   "name": "DULCE DE LECHE LOS NIETITOS CON AVELLANAS 400 GRAMOS",
+   "qty": 96,
+   "upc": 6,
+   "armado": 96
+  },
+  {
+   "code": "942",
+   "name": "DULCE DE LECHE LOS NIETITOS CON COCO 400 GRAMOS",
+   "qty": 96,
+   "upc": 6,
+   "armado": 96
+  },
+  {
+   "code": "941",
+   "name": "DULCE DE LECHE LOS NIETITOS TRADICIONAL 780 GRAMOS",
+   "qty": 48,
+   "upc": 6,
+   "armado": 48
+  },
+  {
+   "code": "188",
+   "name": "DULCE DE LECHE LOS NIETITOS TRADICIONAL 400 GRAMOS",
+   "qty": 120,
+   "upc": 6,
+   "armado": 120
+  }
+ ],
+ "ents": [
+  {
+   "code": "3174",
+   "total": 12,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795606232449
+  },
+  {
+   "code": "2516",
+   "total": 48,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795606350986
+  },
+  {
+   "code": "2522",
+   "total": 48,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795606386220
+  },
+  {
+   "code": "2520",
+   "total": 48,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795606480200
+  },
+  {
+   "code": "2518",
+   "total": 48,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795606502883
+  },
+  {
+   "code": "2519",
+   "total": 48,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795606528725
+  },
+  {
+   "code": "1104",
+   "total": 96,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795608246436
+  },
+  {
+   "code": "941",
+   "total": 48,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795608318681
+  },
+  {
+   "code": "188",
+   "total": 120,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795608441372
+  },
+  {
+   "code": "2224",
+   "total": 96,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795608645803
+  },
+  {
+   "code": "942",
+   "total": 96,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795608757045
+  }
+ ],
+ "nuevos": {},
+ "cajasN": {},
+ "salt": {},
+ "inicio": 1795605641826,
+ "lotes": [],
+ "fotos": [
+  "P1_cara1.jpg",
+  "P1_cara2.jpg",
+  "P1_cara3.jpg",
+  "P1_cara4.jpg",
+  "producto_3174_P1_r9t.jpg",
+  "producto_2516_P1_2cs.jpg",
+  "producto_2522_P1_jkr.jpg",
+  "producto_2520_P1_jxn.jpg",
+  "producto_2518_P1_aag.jpg",
+  "producto_2519_P1_d26.jpg",
+  "producto_1104_P1_xms.jpg",
+  "producto_941_P1_zgx.jpg",
+  "producto_188_P1_t7n.jpg",
+  "producto_2224_P1_xmc.jpg",
+  "producto_942_P1_p1w.jpg"
+ ],
+ "nota": "25/11: Sheridans 3273 sacado del pedido (refacturado sin Sheridans → A2702, pedido de Mario)."
+}

@@ -1,0 +1,394 @@
+{
+ "nombre": "ALFACOR 17NOV26",
+ "pedido": [
+  "A5534-EF"
+ ],
+ "cliente": "ALFACOR INTERNATIONAL SA",
+ "entrega": "LIBERTY DUTY FREE",
+ "armo": "Brian",
+ "fecha": "2026-11-17T14:02:41.566Z",
+ "lineas": [
+  {
+   "code": "13",
+   "name": "PROSECCO BOTTEGA WHITE GOLD VENEZIA 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "1028",
+   "name": "ESPUMANTE MILLESIMATO BOTTEGA BRUT 750 ML",
+   "qty": 132,
+   "upc": 6,
+   "armado": 132
+  },
+  {
+   "code": "43",
+   "name": "LICOR BOTTEGA ESPRESSO 500 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "49",
+   "name": "LICOR BOTTEGA CANNELLA 500 ML",
+   "qty": 84,
+   "upc": 6,
+   "armado": 84
+  },
+  {
+   "code": "90",
+   "name": "LICOR BOTTEGA MELONCINO 500 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "133",
+   "name": "LICOR BOTTEGA PESCA 500 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "159",
+   "name": "LICOR BOTTEGA GINGER 500 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "577",
+   "name": "LICOR BOTTEGA GIANDUIA FONDENTE 500 ML",
+   "qty": 72,
+   "upc": 6,
+   "armado": 72
+  },
+  {
+   "code": "1581",
+   "name": "LICOR BOTTEGA LIMONCELLO DI SORRENTO 500 ML",
+   "qty": 96,
+   "upc": 6,
+   "armado": 96
+  },
+  {
+   "code": "393",
+   "name": "LICOR BOTTEGA SAMBUCA 700 ML",
+   "qty": 6,
+   "upc": 6,
+   "armado": 6
+  },
+  {
+   "code": "595",
+   "name": "LICOR BOTTEGA NEGRONI  700 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "92",
+   "name": "LICOR BOTTEGA GIANDUIA 500 ML",
+   "qty": 132,
+   "upc": 6,
+   "armado": 132
+  },
+  {
+   "code": "580",
+   "name": "LICOR BOTTEGA CAPPUCCINO 500 ML",
+   "qty": 120,
+   "upc": 6,
+   "armado": 120
+  },
+  {
+   "code": "2361",
+   "name": "LICOR BOTTEGA CREMA DI MELONCINO 500 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "96",
+   "name": "LICOR BOTTEGA CREMA DE LIMONCINO 500 ML",
+   "qty": 144,
+   "upc": 6,
+   "armado": 144
+  },
+  {
+   "code": "1029",
+   "name": "LICOR BOTTEGA LATTE MACCHIATO 500 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "394",
+   "name": "LICOR BOTTEGA PANNA COTTA 500 ML",
+   "qty": 84,
+   "upc": 6,
+   "armado": 84
+  },
+  {
+   "code": "1018",
+   "name": "LICOR BOTTEGA NERO 500 ML",
+   "qty": 48,
+   "upc": 6,
+   "armado": 48
+  },
+  {
+   "code": "75",
+   "name": "LICOR BOTTEGA LIMONCELLO 500 ML",
+   "qty": 144,
+   "upc": 6,
+   "armado": 144
+  },
+  {
+   "code": "327",
+   "name": "ESPUMANTE BOTTEGA 0 WHITE  750 ML",
+   "qty": 132,
+   "upc": 6,
+   "armado": 132
+  },
+  {
+   "code": "219",
+   "name": "ESPUMANTE BOTTEGA 0 ROSE  750 ML",
+   "qty": 156,
+   "upc": 6,
+   "armado": 156
+  },
+  {
+   "code": "2696",
+   "name": "LICOR BOTTEGA LIMONCELLO 1000 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "590",
+   "name": "GRAPPA PROSECCO BOTTEGA ALEXANDER 700 ML",
+   "qty": 6,
+   "upc": 6,
+   "armado": 6
+  }
+ ],
+ "ents": [
+  {
+   "code": "133",
+   "total": 36,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1794857938519
+  },
+  {
+   "code": "75",
+   "total": 144,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1794859082739
+  },
+  {
+   "code": "96",
+   "total": 144,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1794859278439
+  },
+  {
+   "code": "1018",
+   "total": 48,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1794859589703
+  },
+  {
+   "code": "577",
+   "total": 72,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1794859913586
+  },
+  {
+   "code": "394",
+   "total": 84,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1794860235023
+  },
+  {
+   "code": "1029",
+   "total": 60,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1794860426827
+  },
+  {
+   "code": "393",
+   "total": 6,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1794860614826
+  },
+  {
+   "code": "2696",
+   "total": 60,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1794861244089
+  },
+  {
+   "code": "219",
+   "total": 156,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1794861471674
+  },
+  {
+   "code": "327",
+   "total": 132,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1794861668135
+  },
+  {
+   "code": "159",
+   "total": 36,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1794915236443
+  },
+  {
+   "code": "1028",
+   "total": 132,
+   "pallet": "P3",
+   "via": "caja",
+   "at": 1794915789794
+  },
+  {
+   "code": "13",
+   "total": 12,
+   "pallet": "P3",
+   "via": "caja",
+   "at": 1794915998464
+  },
+  {
+   "code": "92",
+   "total": 132,
+   "pallet": "P3",
+   "via": "caja",
+   "at": 1794916461454
+  },
+  {
+   "code": "580",
+   "total": 120,
+   "pallet": "P3",
+   "via": "caja",
+   "at": 1794916928258
+  },
+  {
+   "code": "2361",
+   "total": 60,
+   "pallet": "P3",
+   "via": "caja",
+   "at": 1794917126275
+  },
+  {
+   "code": "43",
+   "total": 60,
+   "pallet": "P3",
+   "via": "caja",
+   "at": 1794917912673
+  },
+  {
+   "code": "49",
+   "total": 84,
+   "pallet": "P4",
+   "via": "caja",
+   "at": 1794918592074
+  },
+  {
+   "code": "90",
+   "total": 36,
+   "pallet": "P4",
+   "via": "caja",
+   "at": 1794918662110
+  },
+  {
+   "code": "590",
+   "total": 6,
+   "pallet": "P4",
+   "via": "caja",
+   "at": 1794918823692
+  },
+  {
+   "code": "595",
+   "total": 36,
+   "pallet": "P4",
+   "via": "caja",
+   "at": 1794918867999
+  },
+  {
+   "code": "1581",
+   "total": 96,
+   "pallet": "P4",
+   "via": "caja",
+   "at": 1794918996951
+  }
+ ],
+ "nuevos": {},
+ "cajasN": {
+  "11440093": "75",
+  "10108005829612719": "133",
+  "11020826212714639920826": "133",
+  "10108005829510640": "75",
+  "10108005829510664": "96",
+  "10108005829228767": "1018",
+  "10108005829246013": "577",
+  "10108005829240240": "394",
+  "10108005829126810": "1029",
+  "10108005829126506": "393",
+  "10108005829122522": "2696",
+  "10108005829237233": "219",
+  "10108005829243005": "327",
+  "10108005829233815": "159",
+  "10108005829236502": "1028",
+  "10108005829013554": "13",
+  "10108005829577612": "92",
+  "10108005829240257": "580",
+  "10108005829258351": "2361",
+  "10108005829237028": "43",
+  "10108005829609610": "49",
+  "8005841610715": "90",
+  "10108005829047610": "590",
+  "10108005829246068": "595",
+  "10108005829249991": "1581"
+ },
+ "fotos": [
+  "P4_cara1.jpg",
+  "P4_cara2.jpg",
+  "P4_cara3.jpg",
+  "P4_cara4.jpg",
+  "P2_cara1.jpg",
+  "P2_cara2.jpg",
+  "P2_cara3.jpg",
+  "P2_cara4.jpg",
+  "P3_cara1.jpg",
+  "P3_cara2.jpg",
+  "P3_cara3.jpg",
+  "P3_cara4.jpg",
+  "P1_cara1.jpg",
+  "P1_cara2.jpg",
+  "P1_cara3.jpg",
+  "P1_cara4.jpg",
+  "producto_159_P2_rax.jpg",
+  "producto_1028_P3_gw9.jpg",
+  "producto_13_P3_vmt.jpg",
+  "producto_92_P3_04l.jpg",
+  "producto_580_P3_ii3.jpg",
+  "producto_2361_P3_fal.jpg",
+  "producto_43_P3_03r.jpg",
+  "producto_49_P4_d37.jpg",
+  "producto_90_P4_1ny.jpg",
+  "producto_590_P4_yg3.jpg",
+  "producto_595_P4_zxc.jpg",
+  "producto_1581_P4_o1u.jpg"
+ ]
+}

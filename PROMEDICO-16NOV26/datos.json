@@ -1,0 +1,351 @@
+{
+ "nombre": "PROMEDICO 16NOV26",
+ "pedido": [
+  "A5535-EF",
+  "A5539-EF"
+ ],
+ "cliente": "PROMEDICO S.A.",
+ "entrega": "BARAO FREE SHOP",
+ "armo": "Natalia",
+ "fecha": "2026-11-16T19:03:12.507Z",
+ "lineas": [
+  {
+   "code": "1022",
+   "name": "LICOR BOTTEGA PISTACHO 500 ML",
+   "qty": 150,
+   "upc": 6,
+   "armado": 150
+  },
+  {
+   "code": "13",
+   "name": "PROSECCO BOTTEGA WHITE GOLD VENEZIA 750 ML",
+   "qty": 30,
+   "upc": 6,
+   "armado": 30
+  },
+  {
+   "code": "1581",
+   "name": "LICOR BOTTEGA LIMONCELLO DI SORRENTO 500 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "133",
+   "name": "LICOR BOTTEGA PESCA 500 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "393",
+   "name": "LICOR BOTTEGA SAMBUCA 700 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "966",
+   "name": "LICOR COINTREAU 700 ML",
+   "qty": 600,
+   "upc": 12,
+   "armado": 600
+  },
+  {
+   "code": "92",
+   "name": "LICOR BOTTEGA GIANDUIA 500 ML",
+   "qty": 30,
+   "upc": 6,
+   "armado": 30
+  },
+  {
+   "code": "580",
+   "name": "LICOR BOTTEGA CAPPUCCINO 500 ML",
+   "qty": 120,
+   "upc": 6,
+   "armado": 120
+  },
+  {
+   "code": "16",
+   "name": "PROSECCO BOTTEGA GOLD 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "1018",
+   "name": "LICOR BOTTEGA NERO 500 ML",
+   "qty": 30,
+   "upc": 6,
+   "armado": 30
+  },
+  {
+   "code": "394",
+   "name": "LICOR BOTTEGA PANNA COTTA 500 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "75",
+   "name": "LICOR BOTTEGA LIMONCELLO 500 ML",
+   "qty": 600,
+   "upc": 6,
+   "armado": 600
+  },
+  {
+   "code": "2696",
+   "name": "LICOR BOTTEGA LIMONCELLO 1000 ML",
+   "qty": 120,
+   "upc": 6,
+   "armado": 120
+  },
+  {
+   "code": "2191",
+   "name": "VINO JOSEPH DROUHIN PULIGNY MONTRACHET 2023 750 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "3186",
+   "name": "VINO QUINTARELLI VALPOLICELLA CLASSICO SUPERIORE 2018 750 ML",
+   "qty": 30,
+   "upc": 6,
+   "armado": 30
+  },
+  {
+   "code": "2403",
+   "name": "VINO REMIREZ DE GANUZA VIÑA COQUETA RESERVA 2017 750 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "1118",
+   "name": "VINO HUGEL RIESLING CLASSIC 2023 750 ML",
+   "qty": 36,
+   "upc": 12,
+   "armado": 36
+  },
+  {
+   "code": "2478",
+   "name": "VINO FINCAS DE GANUZA RESERVA 2018 750 ML",
+   "qty": 138,
+   "upc": 6,
+   "armado": 138
+  },
+  {
+   "code": "2223",
+   "name": "VINO MASI RESERVA DI COSTASERA AMARONE DELLA VALPOLICELLA CLASICO 2019 750 ML",
+   "qty": 66,
+   "upc": 6,
+   "armado": 66
+  },
+  {
+   "code": "2096",
+   "name": "VINO BELLE GLOS LAS ALTURAS PINOT NOIR 2022 750 ML",
+   "qty": 14,
+   "upc": 12,
+   "armado": 14
+  },
+  {
+   "code": "3178",
+   "name": "VINO ALLEGRINI AMARONE DELLA VALPOLICELLA CLASSICO 2021 750 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  }
+ ],
+ "ents": [
+  {
+   "code": "1022",
+   "total": 150,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1794838659565
+  },
+  {
+   "code": "75",
+   "total": 600,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1794838775268
+  },
+  {
+   "code": "1018",
+   "total": 30,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1794839024112
+  },
+  {
+   "code": "393",
+   "total": 60,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1794839089721
+  },
+  {
+   "code": "16",
+   "total": 12,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1794839575846
+  },
+  {
+   "code": "1581",
+   "total": 60,
+   "pallet": "P2",
+   "via": "codigo",
+   "at": 1794840180335
+  },
+  {
+   "code": "966",
+   "total": 600,
+   "pallet": "P2",
+   "via": "codigo",
+   "at": 1794840337886
+  },
+  {
+   "code": "394",
+   "total": 60,
+   "pallet": "P2",
+   "via": "codigo",
+   "at": 1794840897409
+  },
+  {
+   "code": "92",
+   "total": 30,
+   "pallet": "P2",
+   "via": "codigo",
+   "at": 1794841003258
+  },
+  {
+   "code": "2696",
+   "total": 120,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1794841182072
+  },
+  {
+   "code": "133",
+   "total": 60,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1794841290096
+  },
+  {
+   "code": "580",
+   "total": 120,
+   "pallet": "P3",
+   "via": "etiqueta",
+   "at": 1794841487296
+  },
+  {
+   "code": "13",
+   "total": 30,
+   "pallet": "P3",
+   "via": "lista",
+   "at": 1794841858521
+  },
+  {
+   "code": "2478",
+   "total": 138,
+   "pallet": "P4",
+   "via": "codigo",
+   "at": 1794843007657
+  },
+  {
+   "code": "2223",
+   "total": 66,
+   "pallet": "P4",
+   "via": "codigo",
+   "at": 1794843182013
+  },
+  {
+   "code": "3178",
+   "total": 60,
+   "pallet": "P4",
+   "via": "codigo",
+   "at": 1794843259929
+  },
+  {
+   "code": "2403",
+   "total": 36,
+   "pallet": "P4",
+   "via": "codigo",
+   "at": 1794843328321
+  },
+  {
+   "code": "2096",
+   "total": 14,
+   "pallet": "P4",
+   "via": "codigo",
+   "at": 1794843730216
+  },
+  {
+   "code": "2191",
+   "total": 36,
+   "pallet": "P4",
+   "via": "codigo",
+   "at": 1794843831824
+  },
+  {
+   "code": "1118",
+   "total": 36,
+   "pallet": "P4",
+   "via": "codigo",
+   "at": 1794843916308
+  },
+  {
+   "code": "3186",
+   "total": 30,
+   "pallet": "P4",
+   "via": "lista",
+   "at": 1794844373009
+  }
+ ],
+ "nuevos": {
+  "8005829222635": "2696"
+ },
+ "fotos": [
+  "P1_cara1.jpg",
+  "P1_cara2.jpg",
+  "P1_cara3.jpg",
+  "P1_cara4.jpg",
+  "P2_cara1.jpg",
+  "P2_cara2.jpg",
+  "P2_cara3.jpg",
+  "P2_cara4.jpg",
+  "P4_cara1.jpg",
+  "P4_cara2.jpg",
+  "P4_cara3.jpg",
+  "P4_cara4.jpg",
+  "P3_cara1.jpg",
+  "P3_cara2.jpg",
+  "P3_cara3.jpg",
+  "P3_cara4.jpg",
+  "producto_1022_P1_jlm.jpg",
+  "producto_75_P1_i2a.jpg",
+  "producto_1018_P1_hpp.jpg",
+  "producto_393_P1_bss.jpg",
+  "producto_16_P1_2o6.jpg",
+  "producto_1581_P2_f08.jpg",
+  "producto_966_P2_357.jpg",
+  "producto_394_P2_rxv.jpg",
+  "producto_92_P2_ehe.jpg",
+  "producto_2696_P3_03n.jpg",
+  "producto_133_P3_bvy.jpg",
+  "producto_580_P3_3nt.jpg",
+  "producto_13_P3_7ni.jpg",
+  "producto_2478_P4_1xw.jpg",
+  "producto_2223_P4_82i.jpg",
+  "producto_3178_P4_e3n.jpg",
+  "producto_2403_P4_biu.jpg",
+  "producto_2096_P4_f71.jpg",
+  "producto_2191_P4_67v.jpg",
+  "producto_1118_P4_5c6.jpg",
+  "producto_3186_P4_5dz.jpg"
+ ]
+}

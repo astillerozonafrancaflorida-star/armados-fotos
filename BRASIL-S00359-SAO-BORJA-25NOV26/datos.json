@@ -1,0 +1,226 @@
+{
+ "nombre": "BRASIL S00359-SAO-BORJA 25NOV26",
+ "pedido": [
+  "S00359-SAO-BORJA"
+ ],
+ "cliente": "BRASIL FREE SHOP SAO BORJA",
+ "entrega": "BRASIL FREE SHOP SAO BORJA",
+ "armo": "Brian",
+ "fecha": "2026-11-25T13:15:00.564Z",
+ "lineas": [
+  {
+   "code": "2519",
+   "name": "ACEITE DE OLIVA EXTRA VIRGEN OLEOCAMPO AJO MARASCA 250 ML",
+   "qty": 60,
+   "upc": 12,
+   "armado": 60
+  },
+  {
+   "code": "2518",
+   "name": "ACEITE DE OLIVA EXTRA VIRGEN OLEOCAMPO ALBAHACA MARASCA 250 ML",
+   "qty": 60,
+   "upc": 12,
+   "armado": 60
+  },
+  {
+   "code": "2520",
+   "name": "ACEITE DE OLIVA EXTRA VIRGEN OLEOCAMPO CHILE MARASCA 250 ML",
+   "qty": 60,
+   "upc": 12,
+   "armado": 60
+  },
+  {
+   "code": "2522",
+   "name": "ACEITE DE OLIVA EXTRA VIRGEN OLEOCAMPO LIMON MARASCA 250 ML",
+   "qty": 60,
+   "upc": 12,
+   "armado": 60
+  },
+  {
+   "code": "2516",
+   "name": "ACEITE DE OLIVA EXTRA VIRGEN OLEOCAMPO TRUFA BLANCA MARASCA 250 ML",
+   "qty": 60,
+   "upc": 12,
+   "armado": 60
+  },
+  {
+   "code": "622",
+   "name": "CHAMPAGNE VEUVE CLICQUOT BRUT CON ESTUCHE 750 ML",
+   "qty": 18,
+   "upc": 6,
+   "armado": 18
+  },
+  {
+   "code": "75",
+   "name": "LICOR BOTTEGA LIMONCELLO 500 ML",
+   "qty": 216,
+   "upc": 6,
+   "armado": 216
+  },
+  {
+   "code": "3174",
+   "name": "CHAMPAGNE VEUVE CLICQUOT BRUT COFFRET ARROW SAO PAULO 750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "1104",
+   "name": "DULCE DE LECHE LOS NIETITOS CHOCOLATE 400 GRAMOS",
+   "qty": 120,
+   "upc": 6,
+   "armado": 120
+  },
+  {
+   "code": "2224",
+   "name": "DULCE DE LECHE LOS NIETITOS CON AVELLANAS 400 GRAMOS",
+   "qty": 120,
+   "upc": 6,
+   "armado": 120
+  },
+  {
+   "code": "942",
+   "name": "DULCE DE LECHE LOS NIETITOS CON COCO 400 GRAMOS",
+   "qty": 120,
+   "upc": 6,
+   "armado": 120
+  },
+  {
+   "code": "941",
+   "name": "DULCE DE LECHE LOS NIETITOS TRADICIONAL 780 GRAMOS",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "188",
+   "name": "DULCE DE LECHE LOS NIETITOS TRADICIONAL 400 GRAMOS",
+   "qty": 240,
+   "upc": 6,
+   "armado": 240
+  }
+ ],
+ "ents": [
+  {
+   "code": "75",
+   "total": 216,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795608256001
+  },
+  {
+   "code": "3174",
+   "total": 24,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795608274917
+  },
+  {
+   "code": "622",
+   "total": 18,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795608334747
+  },
+  {
+   "code": "2522",
+   "total": 60,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1795608415322
+  },
+  {
+   "code": "2518",
+   "total": 60,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1795608453115
+  },
+  {
+   "code": "2519",
+   "total": 60,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1795608469739
+  },
+  {
+   "code": "2520",
+   "total": 60,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1795608503991
+  },
+  {
+   "code": "2516",
+   "total": 60,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1795608528454
+  },
+  {
+   "code": "1104",
+   "total": 120,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795609690620
+  },
+  {
+   "code": "2224",
+   "total": 120,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795610046425
+  },
+  {
+   "code": "942",
+   "total": 120,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795610202764
+  },
+  {
+   "code": "188",
+   "total": 240,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795610301950
+  },
+  {
+   "code": "941",
+   "total": 60,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795610324038
+  }
+ ],
+ "nuevos": {},
+ "cajasN": {
+  "27730124001849": "1104",
+  "27730124000910": "2224",
+  "27730124002419": "942",
+  "27730124384515": "188"
+ },
+ "salt": {},
+ "inicio": 1795607592296,
+ "lotes": [],
+ "fotos": [
+  "P1_cara1.jpg",
+  "P1_cara2.jpg",
+  "P1_cara3.jpg",
+  "P1_cara4.jpg",
+  "producto_75_P1_4sm.jpg",
+  "producto_3174_P1_kzs.jpg",
+  "producto_622_P1_2rt.jpg",
+  "producto_2522_P1_ws4.jpg",
+  "producto_2518_P1_6e5.jpg",
+  "producto_2519_P1_pij.jpg",
+  "producto_2520_P1_osb.jpg",
+  "producto_2516_P1_xqv.jpg",
+  "producto_1104_P1_7ik.jpg",
+  "producto_2224_P1_6nc.jpg",
+  "producto_942_P1_mhh.jpg",
+  "producto_188_P1_p0r.jpg",
+  "producto_941_P1_qlg.jpg"
+ ],
+ "nota": "25/11: Sheridans 3273 sacado del pedido (refacturado sin Sheridans → A2703, pedido de Mario)."
+}

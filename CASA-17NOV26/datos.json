@@ -1,0 +1,310 @@
+{
+ "nombre": "CASA 17NOV26",
+ "pedido": [
+  "A5538-EF"
+ ],
+ "cliente": "CASA AMERICA S.A.",
+ "entrega": "SHOPPING CHINA RIVERA",
+ "armo": "Natalia",
+ "fecha": "2026-11-17T11:42:41.342Z",
+ "lineas": [
+  {
+   "code": "133",
+   "name": "LICOR BOTTEGA PESCA 500 ML",
+   "qty": 18,
+   "upc": 6,
+   "armado": 18
+  },
+  {
+   "code": "43",
+   "name": "LICOR BOTTEGA ESPRESSO 500 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "49",
+   "name": "LICOR BOTTEGA CANNELLA 500 ML",
+   "qty": 18,
+   "upc": 6,
+   "armado": 18
+  },
+  {
+   "code": "90",
+   "name": "LICOR BOTTEGA MELONCINO 500 ML",
+   "qty": 18,
+   "upc": 6,
+   "armado": 18
+  },
+  {
+   "code": "577",
+   "name": "LICOR BOTTEGA GIANDUIA FONDENTE 500 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "1581",
+   "name": "LICOR BOTTEGA LIMONCELLO DI SORRENTO 500 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "393",
+   "name": "LICOR BOTTEGA SAMBUCA 700 ML",
+   "qty": 18,
+   "upc": 6,
+   "armado": 18
+  },
+  {
+   "code": "595",
+   "name": "LICOR BOTTEGA NEGRONI  700 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "92",
+   "name": "LICOR BOTTEGA GIANDUIA 500 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "2361",
+   "name": "LICOR BOTTEGA CREMA DI MELONCINO 500 ML",
+   "qty": 18,
+   "upc": 6,
+   "armado": 18
+  },
+  {
+   "code": "1029",
+   "name": "LICOR BOTTEGA LATTE MACCHIATO 500 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "96",
+   "name": "LICOR BOTTEGA CREMA DE LIMONCINO 500 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "1018",
+   "name": "LICOR BOTTEGA NERO 500 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "394",
+   "name": "LICOR BOTTEGA PANNA COTTA 500 ML",
+   "qty": 30,
+   "upc": 6,
+   "armado": 30
+  },
+  {
+   "code": "75",
+   "name": "LICOR BOTTEGA LIMONCELLO 500 ML",
+   "qty": 360,
+   "upc": 6,
+   "armado": 360
+  },
+  {
+   "code": "327",
+   "name": "ESPUMANTE BOTTEGA 0 WHITE  750 ML",
+   "qty": 18,
+   "upc": 6,
+   "armado": 18
+  },
+  {
+   "code": "219",
+   "name": "ESPUMANTE BOTTEGA 0 ROSE  750 ML",
+   "qty": 18,
+   "upc": 6,
+   "armado": 18
+  },
+  {
+   "code": "2696",
+   "name": "LICOR BOTTEGA LIMONCELLO 1000 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  }
+ ],
+ "ents": [
+  {
+   "code": "75",
+   "total": 360,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1794859629297
+  },
+  {
+   "code": "96",
+   "total": 36,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1794859775386
+  },
+  {
+   "code": "1581",
+   "total": 24,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1794859841429
+  },
+  {
+   "code": "90",
+   "total": 18,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1794859978244
+  },
+  {
+   "code": "92",
+   "total": 24,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1794860128614
+  },
+  {
+   "code": "577",
+   "total": 24,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1794860230757
+  },
+  {
+   "code": "1029",
+   "total": 36,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1794860280285
+  },
+  {
+   "code": "394",
+   "total": 30,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1794860347014
+  },
+  {
+   "code": "2361",
+   "total": 18,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1794860425672
+  },
+  {
+   "code": "49",
+   "total": 18,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1794860648406
+  },
+  {
+   "code": "595",
+   "total": 36,
+   "pallet": "P2",
+   "via": "lista",
+   "at": 1794861193552
+  },
+  {
+   "code": "2696",
+   "total": 60,
+   "pallet": "P2",
+   "via": "lista",
+   "at": 1794861245838
+  },
+  {
+   "code": "133",
+   "total": 18,
+   "pallet": "P2",
+   "via": "lista",
+   "at": 1794861294141
+  },
+  {
+   "code": "43",
+   "total": 12,
+   "pallet": "P2",
+   "via": "lista",
+   "at": 1794861325846
+  },
+  {
+   "code": "393",
+   "total": 18,
+   "pallet": "P2",
+   "via": "lista",
+   "at": 1794861428236
+  },
+  {
+   "code": "327",
+   "total": 18,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1794861536310
+  },
+  {
+   "code": "219",
+   "total": 18,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1794861660846
+  },
+  {
+   "code": "1018",
+   "total": 24,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1794862021033
+  }
+ ],
+ "nuevos": {},
+ "cajasN": {
+  "14088360": "595",
+  "14888267": "49",
+  "11007726212713996907726": "75",
+  "11021126212714576921126": "96",
+  "11004026212713553804026": "1581",
+  "10108005829610715": "90",
+  "10108005829577612": "92",
+  "10108005829246013": "577",
+  "11020526212714666220526": "1029",
+  "11010326212714011810326": "394",
+  "10108005829258351": "2361",
+  "10108005829126506": "393",
+  "11020826212714639920826": "133",
+  "10108005829122522": "2696",
+  "10108005829237028": "43",
+  "11021626212714540721626": "327",
+  "11019526212714499319526": "219",
+  "11018226212714487318226": "1018"
+ },
+ "fotos": [
+  "P1_cara1.jpg",
+  "P1_cara2.jpg",
+  "P1_cara3.jpg",
+  "P1_cara4.jpg",
+  "P2_cara1.jpg",
+  "P2_cara2.jpg",
+  "P2_cara3.jpg",
+  "P2_cara4.jpg",
+  "producto_96_P1_m5p.jpg",
+  "producto_1581_P1_3bb.jpg",
+  "producto_90_P1_ej8.jpg",
+  "producto_92_P1_og4.jpg",
+  "producto_577_P1_7ue.jpg",
+  "producto_49_P1_tim.jpg",
+  "producto_595_P2_3gq.jpg",
+  "producto_2696_P2_qku.jpg",
+  "producto_133_P2_tu0.jpg",
+  "producto_43_P2_o03.jpg",
+  "producto_393_P2_hdp.jpg",
+  "producto_327_P2_zpo.jpg",
+  "producto_1018_P2_f6w.jpg"
+ ]
+}

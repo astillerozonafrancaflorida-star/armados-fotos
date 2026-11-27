@@ -1,0 +1,48 @@
+{
+ "salida": "SAL-MARIO-3PLT-2511-702f",
+ "titulo": "MARIO 3PLT",
+ "nota": "Facturas A5555 · A5551 · A5556",
+ "matricula": "OTP2870",
+ "chofer": "De Maria",
+ "op": "Natalia",
+ "cerrada": "2026-11-25T14:22:23.315Z",
+ "motivo": "",
+ "total": 3,
+ "ok": 3,
+ "faltan": [],
+ "pallets": [
+  {
+   "k": "A5550-A5551|P1",
+   "grupo": "MARIO FREE SHOP · A5555 · A5551 · A5556",
+   "p": "P1",
+   "bot": 476,
+   "on": true,
+   "at": 1795616256565,
+   "op": "Natalia",
+   "via": "qr"
+  },
+  {
+   "k": "A5550-A5551|P2",
+   "grupo": "MARIO FREE SHOP · A5555 · A5551 · A5556",
+   "p": "P2",
+   "bot": 435,
+   "on": true,
+   "at": 1795616405006,
+   "op": "Natalia",
+   "via": "qr"
+  },
+  {
+   "k": "A5550-A5551|P3",
+   "grupo": "MARIO FREE SHOP · A5555 · A5551 · A5556",
+   "p": "P3",
+   "bot": 379,
+   "on": true,
+   "at": 1795615881292,
+   "op": "Natalia",
+   "via": "mano"
+  }
+ ],
+ "fotos": [
+  "camion_1.jpg"
+ ]
+}

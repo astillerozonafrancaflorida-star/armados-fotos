@@ -1,0 +1,104 @@
+{
+ "nombre": "VESPA A5543 A5588 A5573 26NOV26",
+ "pedido": [
+  "A5543-EF",
+  "A5588-EF",
+  "A5573-EF"
+ ],
+ "cliente": "VESPA BERTONE Y AGUINSKY FERNANDEZ",
+ "entrega": "LE CARROUSSEL FREE SHOP",
+ "armo": "Denis Pecora",
+ "fecha": "2026-11-26T06:08:46.068Z",
+ "lineas": [
+  {
+   "code": "3171",
+   "name": "VINO VEGA SICILIA UNICO 2014 1500 ML",
+   "qty": 14,
+   "upc": 1,
+   "armado": 14
+  },
+  {
+   "code": "2335",
+   "name": "VINO CASANOVA DI NERI BRUNELLO DI MONTALCINO 2020 1500 ML",
+   "qty": 3,
+   "upc": 1,
+   "armado": 3
+  },
+  {
+   "code": "2976",
+   "name": "VINO ALION 2022 1500 ML",
+   "qty": 30,
+   "upc": 1,
+   "armado": 30
+  },
+  {
+   "code": "2833",
+   "name": "VINO VEGA SICILIA UNICO 2016 750 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "684",
+   "name": "VINO CASANOVA DI NERI BRUNELLO DI MONTALCINO 2019 1500 ML",
+   "qty": 5,
+   "upc": 6,
+   "armado": 5
+  }
+ ],
+ "ents": [
+  {
+   "code": "2833",
+   "total": 60,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795663714080
+  },
+  {
+   "code": "2976",
+   "total": 30,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795664009212
+  },
+  {
+   "code": "3171",
+   "total": 14,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795664447078
+  },
+  {
+   "code": "684",
+   "total": 5,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795664632755
+  },
+  {
+   "code": "2335",
+   "total": 3,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795664812601
+  }
+ ],
+ "nuevos": {},
+ "cajasN": {
+  "6533897770182": "2833"
+ },
+ "salt": {},
+ "inicio": 1795663037351,
+ "lotes": [],
+ "fotos": [
+  "P1_cara1.jpg",
+  "P1_cara2.jpg",
+  "P1_cara3.jpg",
+  "P1_cara4.jpg",
+  "producto_2833_P1_l56.jpg",
+  "producto_2976_P1_kkt.jpg",
+  "producto_3171_P1_uln.jpg",
+  "producto_684_P1_l0p.jpg",
+  "producto_2335_P1_fq4.jpg"
+ ]
+}

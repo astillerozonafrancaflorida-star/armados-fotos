@@ -1,0 +1,56 @@
+{
+ "nombre": "GEMISTER A5564 24NOV26",
+ "pedido": [
+  "A5564-EF"
+ ],
+ "cliente": "GEMISTER S.A",
+ "entrega": "BRASIL FREE SHOP",
+ "armo": "Mario",
+ "fecha": "2026-11-24T18:08:55.259Z",
+ "lineas": [
+  {
+   "code": "1703",
+   "name": "VINO VEGA SICILIA UNICO 2005 750 ML",
+   "qty": 2,
+   "upc": 2,
+   "armado": 2
+  },
+  {
+   "code": "1708",
+   "name": "VINO VEGA SICILIA UNICO 2010 750 ML",
+   "qty": 2,
+   "upc": 2,
+   "armado": 2
+  }
+ ],
+ "ents": [
+  {
+   "code": "1708",
+   "total": 2,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1795543204253
+  },
+  {
+   "code": "1703",
+   "total": 2,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795543271028
+  }
+ ],
+ "nuevos": {
+  "8436014243744": "1708"
+ },
+ "cajasN": {
+  "1528187778387": "1703"
+ },
+ "salt": {},
+ "inicio": 1795542956563,
+ "lotes": [],
+ "fotos": [
+  "P1_cara1.jpg",
+  "producto_1708_P1_63k.jpg",
+  "producto_1703_P1_qz1.jpg"
+ ]
+}

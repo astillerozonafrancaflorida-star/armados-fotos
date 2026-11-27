@@ -1,0 +1,57 @@
+{
+ "nombre": "VESPA A5597 27NOV26",
+ "pedido": [
+  "A5597-EF"
+ ],
+ "cliente": "VESPA BERTONE Y AGUINSKY FERNANDEZ",
+ "entrega": "LE CARROUSSEL FREE SHOP",
+ "armo": "Denis Pecora",
+ "fecha": "2026-11-27T01:50:58.412Z",
+ "lineas": [
+  {
+   "code": "3022",
+   "name": "VINO SOLDERA CASE BASSE 2021 750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "2553",
+   "name": "VINO VIÑA GRAVONIA CRIANZA  BLANCO 2017 750 ML",
+   "qty": 132,
+   "upc": 6,
+   "armado": 132
+  }
+ ],
+ "ents": [
+  {
+   "code": "2553",
+   "total": 132,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795743718015
+  },
+  {
+   "code": "3022",
+   "total": 24,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795743966795
+  }
+ ],
+ "nuevos": {},
+ "cajasN": {
+  "8423954260382": "2553"
+ },
+ "salt": {},
+ "inicio": 1795743649848,
+ "lotes": [],
+ "fotos": [
+  "P1_cara1.jpg",
+  "P1_cara2.jpg",
+  "P1_cara3.jpg",
+  "P1_cara4.jpg",
+  "producto_2553_P1_4ao.jpg",
+  "producto_3022_P1_pyf.jpg"
+ ]
+}

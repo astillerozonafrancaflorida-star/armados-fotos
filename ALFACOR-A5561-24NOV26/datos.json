@@ -1,0 +1,44 @@
+{
+ "nombre": "ALFACOR A5561 24NOV26",
+ "pedido": [
+  "A5561-EF"
+ ],
+ "cliente": "ALFACOR INTERNATIONAL SA",
+ "entrega": "LIBERTY DUTY FREE",
+ "armo": "Natalia",
+ "fecha": "2026-11-24T12:33:20.533Z",
+ "lineas": [
+  {
+   "code": "2",
+   "name": "MOSCATO BOTTEGA PETALO AMORE 750 ML",
+   "qty": 480,
+   "upc": 6,
+   "armado": 480
+  }
+ ],
+ "ents": [
+  {
+   "code": "2",
+   "total": 480,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1795523493924
+  }
+ ],
+ "nuevos": {
+  "8005829220648": "2"
+ },
+ "cajasN": {
+  "8005829230630": "2"
+ },
+ "salt": {},
+ "inicio": 1795523400391,
+ "lotes": [],
+ "fotos": [
+  "P1_cara1.jpg",
+  "P1_cara2.jpg",
+  "P1_cara3.jpg",
+  "P1_cara4.jpg",
+  "producto_2_P1_ygf.jpg"
+ ]
+}

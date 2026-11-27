@@ -1,0 +1,11 @@
+*ARMADO A5592 · A5593 — RECAHO SAS*
+Armó: Gaston · 26/11 12:20
+✅ Completo: 2/2 líneas OK · 696/696 botellas
+
+*Pallets:*
+*P1:* 75 (16 cj) · 966 (50 cj) · 📷 4/4
+
+*Códigos de CAJA nuevos (cargar en Odoo):*
+• 4200 → 966 LICOR COINTREAU 700 ML (caja x12)
+• 23035542004200 → 966 LICOR COINTREAU 700 ML (caja x12)
+• 8005829510640 → 75 LICOR BOTTEGA LIMONCELLO 500 ML (caja x6)

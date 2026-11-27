@@ -1,0 +1,849 @@
+{
+ "nombre": "BAH FREE A2695 24NOV26",
+ "pedido": [
+  "A2695-EF-EX"
+ ],
+ "cliente": "BAH FREE SHOP LTDA",
+ "entrega": "BAH FREE SHOP",
+ "armo": "Natalia y Denis Pecora",
+ "fecha": "2026-11-24T19:25:48.855370Z",
+ "lineas": [
+  {
+   "code": "2518",
+   "name": "ACEITE DE OLIVA EXTRA VIRGEN OLEOCAMPO ALBAHACA MARASCA 250 ML",
+   "qty": 144,
+   "upc": 12,
+   "armado": 144
+  },
+  {
+   "code": "2520",
+   "name": "ACEITE DE OLIVA EXTRA VIRGEN OLEOCAMPO CHILE MARASCA 250 ML",
+   "qty": 120,
+   "upc": 12,
+   "armado": 120
+  },
+  {
+   "code": "2522",
+   "name": "ACEITE DE OLIVA EXTRA VIRGEN OLEOCAMPO LIMON MARASCA 250 ML",
+   "qty": 138,
+   "upc": 12,
+   "armado": 138
+  },
+  {
+   "code": "2521",
+   "name": "ACEITE DE OLIVA EXTRA VIRGEN OLEOCAMPO ROMERO MARASCA 250 ML",
+   "qty": 120,
+   "upc": 12,
+   "armado": 120
+  },
+  {
+   "code": "2516",
+   "name": "ACEITE DE OLIVA EXTRA VIRGEN OLEOCAMPO TRUFA BLANCA MARASCA 250 ML",
+   "qty": 164,
+   "upc": 12,
+   "armado": 164
+  },
+  {
+   "code": "2525",
+   "name": "ACEITE DE OLIVA EXTRA VIRGEN AIRES DE JAEN OLEO MARTOS 500 ML",
+   "qty": 480,
+   "upc": 12,
+   "armado": 480
+  },
+  {
+   "code": "453",
+   "name": "CHAMPAGNE MOET CHANDON BRUT IMPERIAL 1500 ML",
+   "qty": 6,
+   "upc": 3,
+   "armado": 6
+  },
+  {
+   "code": "622",
+   "name": "CHAMPAGNE VEUVE CLICQUOT BRUT CON ESTUCHE 750 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "49",
+   "name": "LICOR BOTTEGA CANNELLA 500 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "1581",
+   "name": "LICOR BOTTEGA LIMONCELLO DI SORRENTO 500 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "1022",
+   "name": "LICOR BOTTEGA PISTACHO 500 ML",
+   "qty": 96,
+   "upc": 6,
+   "armado": 96
+  },
+  {
+   "code": "133",
+   "name": "LICOR BOTTEGA PESCA 500 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "90",
+   "name": "LICOR BOTTEGA MELONCINO 500 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "1388",
+   "name": "VINO OPORTO TAYLOR`S FINE RUBY 750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "1434",
+   "name": "VODKA BELVEDERE BLANCA 200 ML",
+   "qty": 24,
+   "upc": 12,
+   "armado": 24
+  },
+  {
+   "code": "3237",
+   "name": "VODKA EXCLUSIV 2 CITRON 40% 0.200",
+   "qty": 240,
+   "upc": 24,
+   "armado": 240
+  },
+  {
+   "code": "3239",
+   "name": "VODKA EXCLUSIV 3 RASPBERRY 37% 0.200",
+   "qty": 120,
+   "upc": 24,
+   "armado": 120
+  },
+  {
+   "code": "3241",
+   "name": "VODKA EXCLUSIV 4 PEACH 35% 0.200",
+   "qty": 120,
+   "upc": 24,
+   "armado": 120
+  },
+  {
+   "code": "332",
+   "name": "GIN PUERTO DE INDIAS CLASSIC 700 ML + COPA",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "1",
+   "name": "CHAMPAGNE VEUVE CLICQUOT BRUT SIN ESTUCHE 750 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "1722",
+   "name": "CHAMPAGNE VEUVE CLICQUOT BRUT 1500 ML",
+   "qty": 6,
+   "upc": 3,
+   "armado": 6
+  },
+  {
+   "code": "3235",
+   "name": "VODKA EXCLUSIV 1 40% 0.200",
+   "qty": 120,
+   "upc": 24,
+   "armado": 120
+  },
+  {
+   "code": "92",
+   "name": "LICOR BOTTEGA GIANDUIA 500 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "580",
+   "name": "LICOR BOTTEGA CAPPUCCINO 500 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "3234",
+   "name": "VODKA EXCLUSIV 1 40% 0.75",
+   "qty": 600,
+   "upc": 6,
+   "armado": 600
+  },
+  {
+   "code": "96",
+   "name": "LICOR BOTTEGA CREMA DE LIMONCINO 500 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "1018",
+   "name": "LICOR BOTTEGA NERO 500 ML",
+   "qty": 48,
+   "upc": 6,
+   "armado": 48
+  },
+  {
+   "code": "394",
+   "name": "LICOR BOTTEGA PANNA COTTA 500 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "327",
+   "name": "ESPUMANTE BOTTEGA 0 WHITE  750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "1811",
+   "name": "BOTTEGA SPRITZ LEMON 750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "219",
+   "name": "ESPUMANTE BOTTEGA 0 ROSE  750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "1389",
+   "name": "VINO OPORTO TAYLOR`S FINE TAWNY 750ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "577",
+   "name": "LICOR BOTTEGA GIANDUIA FONDENTE 500 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "943",
+   "name": "DULCE DE LECHE LOS NIETITOS CON AVELLANAS Y CHOCOLATE 400 GRAMOS",
+   "qty": 120,
+   "upc": 6,
+   "armado": 120
+  },
+  {
+   "code": "944",
+   "name": "DULCE DE LECHE LOS NIETITOS FLOR DE SAL 400 GRAMOS",
+   "qty": 240,
+   "upc": 6,
+   "armado": 240
+  },
+  {
+   "code": "2901",
+   "name": "VINO ANTINORI VILLA ANTINORI BLANCO 2025 750 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "2766",
+   "name": "VINO VALDIVIESO CABALLO LOCO SAGRADA FAMILIA ETIQUETA VERDE 2023 750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "2898",
+   "name": "VINO ANTINORI PIAN DELLE VIGNE ROSSO DI MONTALCINO 2024 750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "1104",
+   "name": "DULCE DE LECHE LOS NIETITOS CHOCOLATE 400 GRAMOS",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "2224",
+   "name": "DULCE DE LECHE LOS NIETITOS CON AVELLANAS 400 GRAMOS",
+   "qty": 84,
+   "upc": 6,
+   "armado": 84
+  },
+  {
+   "code": "942",
+   "name": "DULCE DE LECHE LOS NIETITOS CON COCO 400 GRAMOS",
+   "qty": 144,
+   "upc": 6,
+   "armado": 144
+  },
+  {
+   "code": "941",
+   "name": "DULCE DE LECHE LOS NIETITOS TRADICIONAL 780 GRAMOS",
+   "qty": 240,
+   "upc": 6,
+   "armado": 240
+  },
+  {
+   "code": "188",
+   "name": "DULCE DE LECHE LOS NIETITOS TRADICIONAL 400 GRAMOS",
+   "qty": 480,
+   "upc": 6,
+   "armado": 480
+  },
+  {
+   "code": "3131",
+   "name": "VINO VALDIVIESO CABALLO LOCO PIRQUE 2024 750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "2764",
+   "name": "VINO VALDIVIESO CABALLO LOCO LIMARI AMARILLO 2023 750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "2765",
+   "name": "VINO VALDIVIESO CABALLO LOCO MAIPO ROJO 2023 750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "3180",
+   "name": "VINO ANTINORI CHIANTI CLASSICO VILLA ANTINORI RISERVA 2023 750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "3067",
+   "name": "VINO PIATTELLI RESERVA MALBEC SALTA 2024 750 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "1390",
+   "name": "VINO OPORTO TAYLOR`S FINE WHITE 750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "2052",
+   "name": "VINO VALDIVIESO CABALLO LOCO EXPERIMENTAL GRANITICO 2018 750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "3400",
+   "name": "VINO VALDIVIESO CABALLO LOCO GRAND CRU NORTE VERDE 750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "2902",
+   "name": "VINO MARCHESE ANTINORI RESERVA 2023 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "202",
+   "name": "VINO VALDIVIESO CABALLO LOCO APALTA ETIQUETA AZUL 2023 750 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "3173",
+   "name": "CHAMPAGNE DOM PERIGNON BLANC 2017 CON ESTUCHE 750 ML",
+   "qty": 6,
+   "upc": 6,
+   "armado": 6
+  },
+  {
+   "code": "945",
+   "name": "DULCE DE LECHE LOS NIETITOS CON CAFE 400 GRAMOS",
+   "qty": 120,
+   "upc": 6,
+   "armado": 120
+  }
+ ],
+ "ents": [
+  {
+   "code": "2518",
+   "total": 144,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795459656701
+  },
+  {
+   "code": "2520",
+   "total": 120,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795459751021
+  },
+  {
+   "code": "2522",
+   "total": 138,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795459942218
+  },
+  {
+   "code": "2521",
+   "total": 120,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795460071391
+  },
+  {
+   "code": "2516",
+   "total": 164,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795460151584
+  },
+  {
+   "code": "1434",
+   "total": 24,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795469738429
+  },
+  {
+   "code": "1",
+   "total": 60,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795469789986
+  },
+  {
+   "code": "3241",
+   "total": 120,
+   "pallet": "P2",
+   "via": "codigo",
+   "at": 1795470350780
+  },
+  {
+   "code": "3239",
+   "total": 120,
+   "pallet": "P2",
+   "via": "codigo",
+   "at": 1795470384969
+  },
+  {
+   "code": "1722",
+   "total": 6,
+   "pallet": "P2",
+   "via": "codigo",
+   "at": 1795470673172
+  },
+  {
+   "code": "1018",
+   "total": 48,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795471527076
+  },
+  {
+   "code": "327",
+   "total": 24,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795471707577
+  },
+  {
+   "code": "577",
+   "total": 24,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795471789003
+  },
+  {
+   "code": "394",
+   "total": 12,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795471863304
+  },
+  {
+   "code": "219",
+   "total": 24,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795472342150
+  },
+  {
+   "code": "3234",
+   "total": 600,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795478031422
+  },
+  {
+   "code": "580",
+   "total": 24,
+   "pallet": "P3",
+   "via": "caja",
+   "at": 1795478267290
+  },
+  {
+   "code": "92",
+   "total": 36,
+   "pallet": "P3",
+   "via": "caja",
+   "at": 1795478290609
+  },
+  {
+   "code": "96",
+   "total": 24,
+   "pallet": "P3",
+   "via": "caja",
+   "at": 1795478381792
+  },
+  {
+   "code": "1389",
+   "total": 24,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795478711213
+  },
+  {
+   "code": "1811",
+   "total": 24,
+   "pallet": "P3",
+   "via": "caja",
+   "at": 1795478920559
+  },
+  {
+   "code": "3237",
+   "total": 240,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795479081933
+  },
+  {
+   "code": "188",
+   "total": 480,
+   "pallet": "P4",
+   "via": "caja",
+   "at": 1795482903339
+  },
+  {
+   "code": "944",
+   "total": 240,
+   "pallet": "P4",
+   "via": "codigo",
+   "at": 1795483018606
+  },
+  {
+   "code": "2224",
+   "total": 84,
+   "pallet": "P4",
+   "via": "caja",
+   "at": 1795483077829
+  },
+  {
+   "code": "1104",
+   "total": 36,
+   "pallet": "P4",
+   "via": "caja",
+   "at": 1795483123769
+  },
+  {
+   "code": "942",
+   "total": 144,
+   "pallet": "P4",
+   "via": "caja",
+   "at": 1795483341863
+  },
+  {
+   "code": "941",
+   "total": 240,
+   "pallet": "P4",
+   "via": "lista",
+   "at": 1795483514190
+  },
+  {
+   "code": "943",
+   "total": 120,
+   "pallet": "P4",
+   "via": "codigo",
+   "at": 1795483700350
+  },
+  {
+   "code": "945",
+   "total": 120,
+   "pallet": "P4",
+   "via": "codigo",
+   "at": 1795483791131
+  },
+  {
+   "code": "2052",
+   "total": 24,
+   "pallet": "P5",
+   "via": "caja",
+   "at": 1795484277200
+  },
+  {
+   "code": "3400",
+   "total": 24,
+   "pallet": "P5",
+   "via": "codigo",
+   "at": 1795484351121
+  },
+  {
+   "code": "202",
+   "total": 60,
+   "pallet": "P5",
+   "via": "caja",
+   "at": 1795484400818
+  },
+  {
+   "code": "3067",
+   "total": 60,
+   "pallet": "P5",
+   "via": "codigo",
+   "at": 1795484797284
+  },
+  {
+   "code": "3131",
+   "total": 24,
+   "pallet": "P5",
+   "via": "lista",
+   "at": 1795484877481
+  },
+  {
+   "code": "2765",
+   "total": 24,
+   "pallet": "P5",
+   "via": "lista",
+   "at": 1795484935503
+  },
+  {
+   "code": "3180",
+   "total": 24,
+   "pallet": "P5",
+   "via": "codigo",
+   "at": 1795485027542
+  },
+  {
+   "code": "2902",
+   "total": 12,
+   "pallet": "P5",
+   "via": "codigo",
+   "at": 1795485083446
+  },
+  {
+   "code": "2901",
+   "total": 36,
+   "pallet": "P5",
+   "via": "caja",
+   "at": 1795485190062
+  },
+  {
+   "code": "2764",
+   "total": 24,
+   "pallet": "P5",
+   "via": "codigo",
+   "at": 1795485242038
+  },
+  {
+   "code": "2898",
+   "total": 24,
+   "pallet": "P5",
+   "via": "caja",
+   "at": 1795485272659
+  },
+  {
+   "code": "2766",
+   "total": 24,
+   "pallet": "P5",
+   "via": "codigo",
+   "at": 1795485356122
+  },
+  {
+   "code": "1390",
+   "total": 24,
+   "pallet": "P5",
+   "via": "lista",
+   "at": 1795492071369
+  },
+  {
+   "code": "3173",
+   "total": 6,
+   "pallet": "P5",
+   "via": "codigo",
+   "at": 1795492135673
+  },
+  {
+   "code": "332",
+   "total": 24,
+   "pallet": "P5",
+   "via": "caja",
+   "at": 1795492217486
+  },
+  {
+   "code": "453",
+   "total": 6,
+   "pallet": "P2",
+   "via": "codigo",
+   "at": 1795470753286
+  },
+  {
+   "code": "3235",
+   "total": 120,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795476913538,
+   "corregido": "24/11: 25 cajas → 5 cajas (confirmado por Mario)"
+  },
+  {
+   "code": "2525",
+   "total": 480,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795460411919
+  },
+  {
+   "code": "1022",
+   "total": 96,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795466281936
+  },
+  {
+   "code": "1581",
+   "total": 36,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795466341996
+  },
+  {
+   "code": "90",
+   "total": 24,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795466393652
+  },
+  {
+   "code": "49",
+   "total": 12,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795466523183
+  },
+  {
+   "code": "133",
+   "total": 36,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795466640845
+  },
+  {
+   "code": "1388",
+   "total": 24,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795466744768
+  },
+  {
+   "code": "622",
+   "total": 60,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795466974890
+  }
+ ],
+ "nuevos": {
+  "7730124001999": "944",
+  "4730184609886": "943",
+  "7730124002255": "945"
+ },
+ "cajasN": {
+  "124000910": "2224",
+  "544472604545": "2518",
+  "15901041003437": "1434",
+  "27730124384515": "188",
+  "27730124001993": "944",
+  "27730124001846": "1104",
+  "277301240027": "942",
+  "17730124002870": "943",
+  "27730124002259": "945"
+ },
+ "salt": {},
+ "inicio": 1795469663924,
+ "lotes": [],
+ "fotos": [
+  "P1_cara1.jpg",
+  "P1_cara2.jpg",
+  "P1_cara3.jpg",
+  "P1_cara4.jpg",
+  "P2_cara1.jpg",
+  "P2_cara2.jpg",
+  "P2_cara3.jpg",
+  "P2_cara4.jpg",
+  "P3_cara1.jpg",
+  "P3_cara2.jpg",
+  "P3_cara3.jpg",
+  "P3_cara4.jpg",
+  "P4_cara1.jpg",
+  "P4_cara2.jpg",
+  "P4_cara3.jpg",
+  "P4_cara4.jpg",
+  "P5_cara1.jpg",
+  "P5_cara2.jpg",
+  "P5_cara3.jpg",
+  "P5_cara4.jpg",
+  "producto_1022_P2_1y8.jpg",
+  "producto_1104_P4_r1l.jpg",
+  "producto_133_P2_l2n.jpg",
+  "producto_1388_P2_75b.jpg",
+  "producto_1390_P5_avo.jpg",
+  "producto_1434_P2_snz.jpg",
+  "producto_1581_P2_dec.jpg",
+  "producto_188_P4_gxc.jpg",
+  "producto_2224_P4_sh7.jpg",
+  "producto_2516_P1_d1z.jpg",
+  "producto_2518_P1_2mz.jpg",
+  "producto_2520_P1_akn.jpg",
+  "producto_2521_P1_xzy.jpg",
+  "producto_2522_P1_0wj.jpg",
+  "producto_2525_P1_8ad.jpg",
+  "producto_49_P2_m3u.jpg",
+  "producto_622_P2_18o.jpg",
+  "producto_90_P2_5c0.jpg",
+  "producto_942_P4_l7q.jpg",
+  "producto_943_P4_ons.jpg",
+  "producto_944_P4_ffa.jpg",
+  "producto_945_P4_mq6.jpg"
+ ],
+ "nota": "Unión de los respaldos de 15:55 (Natalia) y 16:12 (Natalia y Denis): 8 cargas del celular de Natalia no habían llegado (24/11) · 3235 corregido 600→120 (5 cajas, Mario 24/11)"
+}

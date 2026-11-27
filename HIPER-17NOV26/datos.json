@@ -1,0 +1,364 @@
+{
+ "nombre": "HIPER 17NOV26",
+ "pedido": [
+  "A5540-EF",
+  "A5508-EF",
+  "A5507-EF",
+  "A5506-EF",
+  "A5503-EF",
+  "A5521-EF",
+  "A5542-EF"
+ ],
+ "cliente": "HIPER T Y N SRL",
+ "entrega": "HIPER FREE SHOP",
+ "armo": "Natalia",
+ "fecha": "2026-11-17T19:56:35.677Z",
+ "lineas": [
+  {
+   "code": "3234",
+   "name": "VODKA EXCLUSIV 1 40% 0.75",
+   "qty": 240,
+   "upc": 6,
+   "armado": 240
+  },
+  {
+   "code": "964",
+   "name": "COGNAC REMY MARTIN XO 700 ML",
+   "qty": 15,
+   "upc": 12,
+   "armado": 15
+  },
+  {
+   "code": "3463",
+   "name": "VINO VEGA SICILIA UNICO 2013 3000 ML ",
+   "qty": 2,
+   "upc": 1,
+   "armado": 2
+  },
+  {
+   "code": "1471",
+   "name": "VINO UNICO EDICION LIMITADA COLECCIONISTA 1996, 2004, 2009 750 ML",
+   "qty": 2,
+   "upc": 1,
+   "armado": 2
+  },
+  {
+   "code": "2548",
+   "name": "VINO ANTINORI SOLAIA 2022 750 ML",
+   "qty": 60,
+   "upc": 3,
+   "armado": 60
+  },
+  {
+   "code": "2893",
+   "name": "VINO ANTINORI BADIA PASSIGNANO 2022 750 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "1014",
+   "name": "CERVEZA BUDWEISER LATA 473 ML",
+   "qty": 2400,
+   "upc": 24,
+   "armado": 2160
+  },
+  {
+   "code": "3440",
+   "name": "VINO ALVARO PALACIOS FINCA DOFI 2018 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "2840",
+   "name": "VINO ALION 2022 750 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "2674",
+   "name": "VINO CRASTO DOURO RESERVA TINTO 2023 750 ML",
+   "qty": 600,
+   "upc": 6,
+   "armado": 600
+  },
+  {
+   "code": "3443",
+   "name": "VINO ALVARO PALACIOS RESERVA ESPECIAL LA MONTESA 2020 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "3441",
+   "name": "VINO ALVARO PALACIOS LES TERRASSES 2018 750 ML",
+   "qty": 12,
+   "upc": 12,
+   "armado": 12
+  },
+  {
+   "code": "2721",
+   "name": "VINO SAN MARZANO SESSANTANNI PRIMITIVO MANDURIA 2020 750 ML",
+   "qty": 766,
+   "upc": 6,
+   "armado": 765
+  },
+  {
+   "code": "3437",
+   "name": "VINO ALVARO PALACIOS LA MONTESA 2018 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "2342",
+   "name": "VINO GAJA IDDA ROSSO 2023 750 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "1544",
+   "name": "VINO TOKAJI OREMUS ASZU 5 PUTTONYOS 2018 500 ML",
+   "qty": 30,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "53",
+   "name": "VINO TOKAJI OREMUS ASZU 6 PUTTONYOS 2016 500 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "2486",
+   "name": "VINO CUNE CONTINO RESERVA 2021 750 ML",
+   "qty": 132,
+   "upc": 6,
+   "armado": 132
+  },
+  {
+   "code": "2843",
+   "name": "VINO PINTIA 2021 750 ML",
+   "qty": 120,
+   "upc": 6,
+   "armado": 120
+  }
+ ],
+ "ents": [
+  {
+   "code": "2721",
+   "total": 600,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1794928950337
+  },
+  {
+   "code": "2721",
+   "total": 165,
+   "pallet": "P2",
+   "via": "lista",
+   "at": 1794929813152
+  },
+  {
+   "code": "3437",
+   "total": 12,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1794935224692
+  },
+  {
+   "code": "3441",
+   "total": 12,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1794935301603
+  },
+  {
+   "code": "2342",
+   "total": 60,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1794935411245
+  },
+  {
+   "code": "2893",
+   "total": 60,
+   "pallet": "P2",
+   "via": "codigo",
+   "at": 1794935526118
+  },
+  {
+   "code": "3463",
+   "total": 2,
+   "pallet": "P2",
+   "via": "lista",
+   "at": 1794937123751
+  },
+  {
+   "code": "2548",
+   "total": 60,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1794938095106
+  },
+  {
+   "code": "2843",
+   "total": 120,
+   "pallet": "P3",
+   "via": "caja",
+   "at": 1794938586299
+  },
+  {
+   "code": "2840",
+   "total": 60,
+   "pallet": "P3",
+   "via": "caja",
+   "at": 1794938742250
+  },
+  {
+   "code": "53",
+   "total": 60,
+   "pallet": "P3",
+   "via": "caja",
+   "at": 1794939305283
+  },
+  {
+   "code": "1544",
+   "total": 24,
+   "pallet": "P3",
+   "via": "caja",
+   "at": 1794939346402
+  },
+  {
+   "code": "3440",
+   "total": 12,
+   "pallet": "P3",
+   "via": "lista",
+   "at": 1794939596505
+  },
+  {
+   "code": "1471",
+   "total": 2,
+   "pallet": "P3",
+   "via": "lista",
+   "at": 1794939699844
+  },
+  {
+   "code": "2486",
+   "total": 132,
+   "pallet": "P3",
+   "via": "caja",
+   "at": 1794939880998
+  },
+  {
+   "code": "3443",
+   "total": 12,
+   "pallet": "P3",
+   "via": "lista",
+   "at": 1794940019231
+  },
+  {
+   "code": "2674",
+   "total": 600,
+   "pallet": "P4",
+   "via": "caja",
+   "at": 1794940501106
+  },
+  {
+   "code": "964",
+   "total": 15,
+   "pallet": "P5",
+   "via": "caja",
+   "at": 1794942028772
+  },
+  {
+   "code": "3234",
+   "total": 240,
+   "pallet": "P5",
+   "via": "codigo",
+   "at": 1794942170990
+  },
+  {
+   "code": "1014",
+   "total": 1920,
+   "pallet": "P6",
+   "via": "caja",
+   "at": 1794943531032
+  },
+  {
+   "code": "1014",
+   "total": 240,
+   "pallet": "P5",
+   "via": "lista",
+   "at": 1794943601315
+  }
+ ],
+ "nuevos": {},
+ "cajasN": {
+  "3353": "2486",
+  "12686016": "1544",
+  "41518878": "53",
+  "44216771": "2342",
+  "8023354133769": "2721",
+  "28411580035805": "3437",
+  "58429073202031": "3441",
+  "8001935006008": "2548",
+  "843602861148570116": "2843",
+  "843601425002539186": "2840",
+  "28410591003353": "2486",
+  "101156041230088931023001": "2674",
+  "13024480004581": "964",
+  "18200110436": "1014"
+ },
+ "fotos": [
+  "P6_cara1.jpg",
+  "P6_cara2.jpg",
+  "P6_cara3.jpg",
+  "P6_cara4.jpg",
+  "P5_cara1.jpg",
+  "P5_cara2.jpg",
+  "P5_cara3.jpg",
+  "P5_cara4.jpg",
+  "P2_cara1.jpg",
+  "P2_cara2.jpg",
+  "P2_cara3.jpg",
+  "P2_cara4.jpg",
+  "P1_cara1.jpg",
+  "P1_cara2.jpg",
+  "P1_cara3.jpg",
+  "P1_cara4.jpg",
+  "P3_cara1.jpg",
+  "P3_cara2.jpg",
+  "P3_cara3.jpg",
+  "P3_cara4.jpg",
+  "P4_cara1.jpg",
+  "P4_cara2.jpg",
+  "P4_cara3.jpg",
+  "P4_cara4.jpg",
+  "producto_2721_P1_zps.jpg",
+  "producto_2721_P2_h9n.jpg",
+  "producto_3437_P2_138.jpg",
+  "producto_3441_P2_d1o.jpg",
+  "producto_2342_P2_gr4.jpg",
+  "producto_2893_P2_q2f.jpg",
+  "producto_3463_P2_uv7.jpg",
+  "producto_2548_P2_i8e.jpg",
+  "producto_2843_P3_byy.jpg",
+  "producto_2840_P3_2yn.jpg",
+  "producto_53_P3_vai.jpg",
+  "producto_1544_P3_lmg.jpg",
+  "producto_3440_P3_8ij.jpg",
+  "producto_1471_P3_smg.jpg",
+  "producto_2486_P3_du7.jpg",
+  "producto_3443_P3_fx1.jpg",
+  "producto_2674_P4_q1y.jpg",
+  "producto_964_P5_ob7.jpg",
+  "producto_3234_P5_aid.jpg",
+  "producto_1014_P6_jra.jpg",
+  "producto_1014_P5_2of.jpg"
+ ]
+}

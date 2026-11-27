@@ -1,0 +1,119 @@
+{
+ "nombre": "MARIO A5579 A5553 26NOV26",
+ "pedido": [
+  "A5579-EF",
+  "A5553-EF"
+ ],
+ "cliente": "MARIO H VIDALES Y CIA SC",
+ "entrega": "MARIO FREE SHOP",
+ "armo": "Brian",
+ "fecha": "2026-11-26T20:07:38.680Z",
+ "lineas": [
+  {
+   "code": "3475",
+   "name": "VINO SILVER OAK NAPA VALLEY CABERNET SAUVIGNON 2021 750 ML ",
+   "qty": 6,
+   "upc": 12,
+   "armado": 6
+  },
+  {
+   "code": "3480",
+   "name": "VINO BELLE GLOS DAIRYMAN PINOT NOIR 2024 750 ML ",
+   "qty": 120,
+   "upc": 12,
+   "armado": 120
+  },
+  {
+   "code": "3472",
+   "name": "VINO BELLE GLOS LAS ALTURAS PINOT NOIR 2024 750 ML",
+   "qty": 120,
+   "upc": 12,
+   "armado": 120
+  },
+  {
+   "code": "3474",
+   "name": "VINO SILVER OAK ALEXANDER VALLEY CABERNET SAUVIGNON 2021 750 ML ",
+   "qty": 30,
+   "upc": 12,
+   "armado": 30
+  },
+  {
+   "code": "2783",
+   "name": "CHAMPAGNE DOM PERIGNON BLANC 2015 LUMINOSA 750 ML",
+   "qty": 114,
+   "upc": 3,
+   "armado": 114
+  },
+  {
+   "code": "3173",
+   "name": "CHAMPAGNE DOM PERIGNON BLANC 2017 CON ESTUCHE 750 ML",
+   "qty": 72,
+   "upc": 6,
+   "armado": 72
+  }
+ ],
+ "ents": [
+  {
+   "code": "3472",
+   "total": 120,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1795721601921
+  },
+  {
+   "code": "3480",
+   "total": 120,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1795721711172
+  },
+  {
+   "code": "3475",
+   "total": 6,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1795721798510
+  },
+  {
+   "code": "3474",
+   "total": 30,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1795721896557
+  },
+  {
+   "code": "3173",
+   "total": 72,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795722782953
+  },
+  {
+   "code": "2783",
+   "total": 114,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795723179108
+  }
+ ],
+ "nuevos": {},
+ "cajasN": {
+  "3185370822876": "3173",
+  "3185370789087": "2783"
+ },
+ "salt": {},
+ "inicio": 1795721460189,
+ "lotes": [],
+ "fotos": [
+  "P1_cara1.jpg",
+  "P1_cara2.jpg",
+  "P1_cara3.jpg",
+  "P1_cara4.jpg",
+  "producto_3472_P1_4do.jpg",
+  "producto_3480_P1_7hq.jpg",
+  "producto_3475_P1_2um.jpg",
+  "producto_3474_P1_rlx.jpg",
+  "producto_3173_P1_cfs.jpg",
+  "producto_2783_P1_5f4.jpg"
+ ]
+}

@@ -1,0 +1,280 @@
+{
+ "nombre": "HIPER A5576 A5580 A5577 A5581 25NOV26",
+ "pedido": [
+  "A5576-EF",
+  "A5580-EF",
+  "A5577-EF",
+  "A5581-EF",
+  "A5582-EF",
+  "A5584-EF",
+  "A5583-EF",
+  "A5585-EF"
+ ],
+ "cliente": "HIPER T Y N SRL",
+ "entrega": "HIPER FREE SHOP",
+ "armo": "Brian",
+ "fecha": "2026-11-25T20:55:31.067Z",
+ "lineas": [
+  {
+   "code": "2936",
+   "name": "VINO ESPUMOSO DECOY SPARKLING BRUT CUVEE 750 ML",
+   "qty": 300,
+   "upc": 12,
+   "armado": 300
+  },
+  {
+   "code": "746",
+   "name": "CHAMPAGNE DELAMOTTE ROSE 750 ML",
+   "qty": 30,
+   "upc": 6,
+   "armado": 30
+  },
+  {
+   "code": "745",
+   "name": "CHAMPAGNE DELAMOTTE BRUT 750 ML",
+   "qty": 276,
+   "upc": 6,
+   "armado": 276
+  },
+  {
+   "code": "3446",
+   "name": "CHAMPAGNE DELAMOTTE BLANC DE BLANCS 750 ML",
+   "qty": 54,
+   "upc": 6,
+   "armado": 54
+  },
+  {
+   "code": "2260",
+   "name": "VINO ARGIANO BRUNELLO DI MONTALCINO DOCG 2020 1500 ML",
+   "qty": 10,
+   "upc": 1,
+   "armado": 10
+  },
+  {
+   "code": "3470",
+   "name": "VINO DUCKHORN NAPA VALLEY MERLOT 2022 750 ML",
+   "qty": 300,
+   "upc": 6,
+   "armado": 300
+  },
+  {
+   "code": "2259",
+   "name": "VINO ARGIANO BRUNELLO DI MONTALCINO DOCG 2020 750 ML",
+   "qty": 240,
+   "upc": 6,
+   "armado": 240
+  },
+  {
+   "code": "3291",
+   "name": "VINO DOMAINE FAIVELEY MERCUREY VIEILLES VIGNES 2023 750 ML",
+   "qty": 114,
+   "upc": 6,
+   "armado": 114
+  },
+  {
+   "code": "3261",
+   "name": "VINO CASTELLO DI AMA SAN LORENZO 2020 750 ML",
+   "qty": 120,
+   "upc": 6,
+   "armado": 120
+  },
+  {
+   "code": "2788",
+   "name": "VINO PAGO DE CARRAOVEJAS 2023 750 ML",
+   "qty": 30,
+   "upc": 6,
+   "armado": 30
+  },
+  {
+   "code": "2849",
+   "name": "VINO OPUS ONE 2022 750 ML",
+   "qty": 30,
+   "upc": 6,
+   "armado": 30
+  },
+  {
+   "code": "2097",
+   "name": "VINO BELLE GLOS CLARK & TELEPHONE PINOT NOIR  2024 750 ML",
+   "qty": 122,
+   "upc": 12,
+   "armado": 122
+  },
+  {
+   "code": "3471",
+   "name": "VINO OVERTURE 2022 750 ML",
+   "qty": 120,
+   "upc": 6,
+   "armado": 120
+  },
+  {
+   "code": "3469",
+   "name": "VINO DUCKHORN NAPA VALLEY CABERNET SAUVIGNON 2023 750 ML",
+   "qty": 300,
+   "upc": 6,
+   "armado": 300
+  },
+  {
+   "code": "2850",
+   "name": "VINO OPUS ONE 2022 1500 ML",
+   "qty": 6,
+   "upc": 3,
+   "armado": 6
+  }
+ ],
+ "ents": [
+  {
+   "code": "3469",
+   "total": 300,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795618467827
+  },
+  {
+   "code": "3470",
+   "total": 300,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795619042520
+  },
+  {
+   "code": "2259",
+   "total": 240,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795620572064
+  },
+  {
+   "code": "2788",
+   "total": 30,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795621177534
+  },
+  {
+   "code": "3471",
+   "total": 120,
+   "pallet": "P3",
+   "via": "lista",
+   "at": 1795628247979
+  },
+  {
+   "code": "2849",
+   "total": 30,
+   "pallet": "P3",
+   "via": "caja",
+   "at": 1795628505074
+  },
+  {
+   "code": "2097",
+   "total": 122,
+   "pallet": "P3",
+   "via": "caja",
+   "at": 1795628953397
+  },
+  {
+   "code": "2260",
+   "total": 10,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795629318077
+  },
+  {
+   "code": "2850",
+   "total": 6,
+   "pallet": "P3",
+   "via": "caja",
+   "at": 1795629505373
+  },
+  {
+   "code": "3261",
+   "total": 120,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795630550923
+  },
+  {
+   "code": "3291",
+   "total": 114,
+   "pallet": "P3",
+   "via": "lista",
+   "at": 1795631852037
+  },
+  {
+   "code": "745",
+   "total": 276,
+   "pallet": "P5",
+   "via": "lista",
+   "at": 1795638997017
+  },
+  {
+   "code": "746",
+   "total": 30,
+   "pallet": "P4",
+   "via": "lista",
+   "at": 1795639064828
+  },
+  {
+   "code": "3446",
+   "total": 54,
+   "pallet": "P5",
+   "via": "lista",
+   "at": 1795639091809
+  },
+  {
+   "code": "2936",
+   "total": 300,
+   "pallet": "P4",
+   "via": "lista",
+   "at": 1795639201833
+  }
+ ],
+ "nuevos": {
+  "8021846152021": "3261",
+  "3418760000685": "3446"
+ },
+ "cajasN": {
+  "124": "2097",
+  "50669576019349": "3469",
+  "60669576019285": "3470",
+  "68022931502204": "2259",
+  "10753604020222": "3471",
+  "10753604062222": "2849",
+  "10753604063229": "2850",
+  "120669576019188": "2936",
+  "3418767010618": "745",
+  "3418767010762": "746",
+  "3418767010694": "3446"
+ },
+ "salt": {},
+ "inicio": 1795616782196,
+ "lotes": [],
+ "fotos": [
+  "P3_cara1.jpg",
+  "P3_cara2.jpg",
+  "P3_cara3.jpg",
+  "P3_cara4.jpg",
+  "P1_cara1.jpg",
+  "P1_cara2.jpg",
+  "P1_cara3.jpg",
+  "P1_cara4.jpg",
+  "P2_cara1.jpg",
+  "P2_cara2.jpg",
+  "P2_cara3.jpg",
+  "P2_cara4.jpg",
+  "producto_3469_P1_gf2.jpg",
+  "producto_3470_P2_u7s.jpg",
+  "producto_2259_P2_s9t.jpg",
+  "producto_2788_P2_eyx.jpg",
+  "producto_3471_P3_vjd.jpg",
+  "producto_2849_P3_u7h.jpg",
+  "producto_2097_P3_u4h.jpg",
+  "producto_2260_P3_dff.jpg",
+  "producto_2850_P3_pq5.jpg",
+  "producto_3261_P3_e23.jpg",
+  "producto_3291_P3_fgu.jpg",
+  "producto_745_P5_ykr.jpg",
+  "producto_746_P4_xiz.jpg",
+  "producto_3446_P5_2om.jpg",
+  "producto_2936_P4_jgx.jpg"
+ ]
+}

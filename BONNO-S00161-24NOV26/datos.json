@@ -1,0 +1,1319 @@
+{
+ "nombre": "BONNO S00161 24NOV26",
+ "pedido": [
+  "S00161"
+ ],
+ "cliente": "BONNO FREE SHOP LTDA, BONNO FREE SHOP",
+ "entrega": "BONNO FREE SHOP",
+ "armo": "Natalia",
+ "fecha": "2026-11-25T13:52:08.018Z",
+ "lineas": [
+  {
+   "code": "622",
+   "name": "CHAMPAGNE VEUVE CLICQUOT BRUT CON ESTUCHE 750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "49",
+   "name": "LICOR BOTTEGA CANNELLA 500 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "1581",
+   "name": "LICOR BOTTEGA LIMONCELLO DI SORRENTO 500 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "90",
+   "name": "LICOR BOTTEGA MELONCINO 500 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "1022",
+   "name": "LICOR BOTTEGA PISTACHO 500 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "1388",
+   "name": "VINO OPORTO TAYLOR`S FINE RUBY 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "1389",
+   "name": "VINO OPORTO TAYLOR`S FINE TAWNY 750ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "3237",
+   "name": "VODKA EXCLUSIV 2 CITRON 40% 0.200",
+   "qty": 24,
+   "upc": 24,
+   "armado": 24
+  },
+  {
+   "code": "3236",
+   "name": "VODKA EXCLUSIV 2 CITRON 40% 0.75",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "3239",
+   "name": "VODKA EXCLUSIV 3 RASPBERRY 37% 0.200",
+   "qty": 24,
+   "upc": 24,
+   "armado": 24
+  },
+  {
+   "code": "3241",
+   "name": "VODKA EXCLUSIV 4 PEACH 35% 0.200",
+   "qty": 24,
+   "upc": 24,
+   "armado": 24
+  },
+  {
+   "code": "3240",
+   "name": "VODKA EXCLUSIV 4 PEACH 35% 0.75",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "2461",
+   "name": "VINO ROBERTSON WINERY CHENIN BLANC 2025 750 ML",
+   "qty": 30,
+   "upc": 6,
+   "armado": 30
+  },
+  {
+   "code": "2464",
+   "name": "VINO PORCUPINE RIDGE SAUVIGNON BLANC 2024 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "645",
+   "name": "VINO MATEUS ORIGINAL ROSE 750 ML",
+   "qty": 120,
+   "upc": 6,
+   "armado": 120
+  },
+  {
+   "code": "2578",
+   "name": "VINO CASA FERREIRINHA PAPA FIGOS ROSE 2022 750 ML",
+   "qty": 120,
+   "upc": 6,
+   "armado": 120
+  },
+  {
+   "code": "3238",
+   "name": "VODKA EXCLUSIV 3 RASPBERRY 37% 0.75",
+   "qty": 30,
+   "upc": 6,
+   "armado": 30
+  },
+  {
+   "code": "2457",
+   "name": "VINO KASTEELBERG SWARTLAND CHENIN BLANC 2025 750 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "2458",
+   "name": "VINO KASTEELBERG SWARTLAND SYRAH 2024 750 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "966",
+   "name": "LICOR COINTREAU 700 ML",
+   "qty": 240,
+   "upc": 12,
+   "armado": 240
+  },
+  {
+   "code": "1442",
+   "name": "PONCHE KUBA 700 ML",
+   "qty": 180,
+   "upc": 12,
+   "armado": 180
+  },
+  {
+   "code": "2656",
+   "name": "LICOR COINTREAU 1750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "1",
+   "name": "CHAMPAGNE VEUVE CLICQUOT BRUT SIN ESTUCHE 750 ML",
+   "qty": 30,
+   "upc": 6,
+   "armado": 30
+  },
+  {
+   "code": "15",
+   "name": "CHAMPAGNE MOET CHANDON BRUT IMPERIAL SIN ESTUCHE 750 ML",
+   "qty": 30,
+   "upc": 6,
+   "armado": 30
+  },
+  {
+   "code": "3235",
+   "name": "VODKA EXCLUSIV 1 40% 0.200",
+   "qty": 24,
+   "upc": 24,
+   "armado": 24
+  },
+  {
+   "code": "92",
+   "name": "LICOR BOTTEGA GIANDUIA 500 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "580",
+   "name": "LICOR BOTTEGA CAPPUCCINO 500 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "2361",
+   "name": "LICOR BOTTEGA CREMA DI MELONCINO 500 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "3234",
+   "name": "VODKA EXCLUSIV 1 40% 0.75",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "96",
+   "name": "LICOR BOTTEGA CREMA DE LIMONCINO 500 ML",
+   "qty": 120,
+   "upc": 6,
+   "armado": 120
+  },
+  {
+   "code": "1029",
+   "name": "LICOR BOTTEGA LATTE MACCHIATO 500 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "160",
+   "name": "POETI PROSECCO DOC BOTTEGA 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "1018",
+   "name": "LICOR BOTTEGA NERO 500 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "394",
+   "name": "LICOR BOTTEGA PANNA COTTA 500 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "327",
+   "name": "ESPUMANTE BOTTEGA 0 WHITE  750 ML",
+   "qty": 30,
+   "upc": 6,
+   "armado": 30
+  },
+  {
+   "code": "219",
+   "name": "ESPUMANTE BOTTEGA 0 ROSE  750 ML",
+   "qty": 30,
+   "upc": 6,
+   "armado": 30
+  },
+  {
+   "code": "3164",
+   "name": "VINO MATEUS DRY ROSE 750 ML",
+   "qty": 120,
+   "upc": 6,
+   "armado": 120
+  },
+  {
+   "code": "712",
+   "name": "VINO M. CHAPOUTIER L'ERMITE ERMITAGE 2011 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "3422",
+   "name": "VINO CRASTO SUPERIOR TINTO 2023 750 ML",
+   "qty": 30,
+   "upc": 6,
+   "armado": 30
+  },
+  {
+   "code": "640",
+   "name": "VINO SAN MARZANO COLLEZIONE 50 VINO ROSSO D'ITALIA 750 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "2897",
+   "name": "VINO ANTINORI PIAN DELLE VIGNE BRUNELLO DI MONTALCINO 2021 750 ML",
+   "qty": 6,
+   "upc": 6,
+   "armado": 6
+  },
+  {
+   "code": "2463",
+   "name": "VINO PORCUPINE RIDGE SYRAH 2024 750 ML",
+   "qty": 6,
+   "upc": 6,
+   "armado": 6
+  },
+  {
+   "code": "2766",
+   "name": "VINO VALDIVIESO CABALLO LOCO SAGRADA FAMILIA ETIQUETA VERDE 2023 750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "2898",
+   "name": "VINO ANTINORI PIAN DELLE VIGNE ROSSO DI MONTALCINO 2024 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "2191",
+   "name": "VINO JOSEPH DROUHIN PULIGNY MONTRACHET 2023 750 ML",
+   "qty": 9,
+   "upc": 6,
+   "armado": 9
+  },
+  {
+   "code": "1696",
+   "name": "VINO TXOMIN ETXANNIZ BLANCO 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "188",
+   "name": "DULCE DE LECHE LOS NIETITOS TRADICIONAL 400 GRAMOS",
+   "qty": 180,
+   "upc": 6,
+   "armado": 180
+  },
+  {
+   "code": "3024",
+   "name": "VINO EGON MULLER SCHARZHOF QUALITATSWEIN 2025 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "3131",
+   "name": "VINO VALDIVIESO CABALLO LOCO PIRQUE 2024 750 ML",
+   "qty": 24,
+   "upc": 6,
+   "armado": 24
+  },
+  {
+   "code": "186",
+   "name": "VINO LE PUY BARTHELEMY 2019 750 ML",
+   "qty": 6,
+   "upc": 6,
+   "armado": 6
+  },
+  {
+   "code": "2547",
+   "name": "VINO ANTINORI VILLA ANTINORI ROSSO 2023 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "2602",
+   "name": "VINO GERARD BERTRAND COTE DES ROSES BLANCO 2024 750 ML",
+   "qty": 6,
+   "upc": 6,
+   "armado": 6
+  },
+  {
+   "code": "1420",
+   "name": "VINO GERARD BERTRAND ART DE VIVRE CLAIRETTE DU LANGUEDOC ROSE 2024 750 ML",
+   "qty": 6,
+   "upc": 6,
+   "armado": 6
+  },
+  {
+   "code": "2878",
+   "name": "VINO SAN MARZANO IL PUMO MALVASIA SAUVIGNON 2025 750 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "3097",
+   "name": "VINO WIN TINTO 750 ML",
+   "qty": 18,
+   "upc": 6,
+   "armado": 18
+  },
+  {
+   "code": "2186",
+   "name": "VINO JOSEPH DROUHIN POUILLY FUISSE 2023 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "541",
+   "name": "VINO LA CHABLISIENNE GRAND CRU CHATEAU GRENOUILLE 2022 750 ML",
+   "qty": 6,
+   "upc": 6,
+   "armado": 6
+  },
+  {
+   "code": "2601",
+   "name": "VINO GERARD BERTRAND ART DE VIVRE CLAIRETTE DU LANGUEDOC BLANC 2024 750 ML",
+   "qty": 6,
+   "upc": 6,
+   "armado": 6
+  },
+  {
+   "code": "1080",
+   "name": "VINO CASANOVA DI NERI IRROSSO 2021 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "3067",
+   "name": "VINO PIATTELLI RESERVA MALBEC SALTA 2024 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "1081",
+   "name": "VINO CASANOVA DI NERI IBBIANCO 2022 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "1082",
+   "name": "VINO CASANOVA DI NERI IRROSE 2022 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "2129",
+   "name": "VINO M. CHAPOUTIER BILA HAUT ROUGE 2021 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "1112",
+   "name": "VINO GERARD BERTRAND COTE DES ROSES ROSE 2024 750 ML",
+   "qty": 6,
+   "upc": 6,
+   "armado": 6
+  },
+  {
+   "code": "3399",
+   "name": "VINO VALDIVIESO CABALLO LOCO APALTA ETIQUETA AZUL 2024 750 ML",
+   "qty": 18,
+   "upc": 6,
+   "armado": 18
+  },
+  {
+   "code": "3068",
+   "name": "VINO PIATTELLI RESERVA MALBEC MENDOZA 2024 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "569",
+   "name": "VINO DOMAINE LAROCHE CHABLIS GRAND CRU LES BLANCHOTS 2022 750 ML",
+   "qty": 6,
+   "upc": 6,
+   "armado": 6
+  },
+  {
+   "code": "2755",
+   "name": "VINO LA VITE LUCENTE 2023 750 ML",
+   "qty": 6,
+   "upc": 6,
+   "armado": 6
+  },
+  {
+   "code": "2459",
+   "name": "VINO KASTEELBERG OLD WINE CHENIN BLANC 2025 750 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "1600",
+   "name": "VINO COMTE LAFOND SANCERRE BLANC 2023 750 ML",
+   "qty": 12,
+   "upc": 12,
+   "armado": 12
+  },
+  {
+   "code": "1968",
+   "name": "VINO DE LADOUCETTE POUILLY FUME 2023 750 ML",
+   "qty": 12,
+   "upc": 12,
+   "armado": 12
+  },
+  {
+   "code": "1390",
+   "name": "VINO OPORTO TAYLOR`S FINE WHITE 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "2730",
+   "name": "VINO VALDUERO UNA CEPA 2020 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "53",
+   "name": "VINO TOKAJI OREMUS ASZU 6 PUTTONYOS 2016 500 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "2633",
+   "name": "VINO EUGENIO ALMEIDA TINTO 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "267",
+   "name": "VINO MENDEL MALBEC 2021 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "3156",
+   "name": "VINO CASA FERREIRINHA PAPA FIGOS BLANCO 2025 750 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "2735",
+   "name": "VINO JOSEPH DROUHIN CHASSAGNE MONTRACHET 2023 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "579",
+   "name": "LICOR BOTTEGA POMEGRANATE 500 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "3351",
+   "name": "VINO JOSEPH DROUHIN BOURGOGNE ALIGOTE 2025 750 M",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  },
+  {
+   "code": "2726",
+   "name": "VINO PAPALE ORO PRIMITIVO MANDURIA DOP 2021 750 ML",
+   "qty": 60,
+   "upc": 6,
+   "armado": 60
+  },
+  {
+   "code": "3531",
+   "name": "VINO PRIMITIVO DEL SALENTO IGP 12 E MEZZO 2024 750 ML",
+   "qty": 36,
+   "upc": 6,
+   "armado": 36
+  },
+  {
+   "code": "3410",
+   "name": "VINO ESPORAO BICO AMARELO BLANCO 2025 750 ML",
+   "qty": 12,
+   "upc": 6,
+   "armado": 12
+  }
+ ],
+ "ents": [
+  {
+   "code": "2878",
+   "total": 60,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795550954945
+  },
+  {
+   "code": "2897",
+   "total": 6,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795551081083
+  },
+  {
+   "code": "640",
+   "total": 60,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795551114851
+  },
+  {
+   "code": "2463",
+   "total": 6,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795551160409
+  },
+  {
+   "code": "2766",
+   "total": 24,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795551225485
+  },
+  {
+   "code": "2191",
+   "total": 9,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795551334411
+  },
+  {
+   "code": "1696",
+   "total": 12,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795551379557
+  },
+  {
+   "code": "3024",
+   "total": 12,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795551444509
+  },
+  {
+   "code": "2898",
+   "total": 12,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795551494592
+  },
+  {
+   "code": "2547",
+   "total": 12,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795551550403
+  },
+  {
+   "code": "2602",
+   "total": 6,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795551615295
+  },
+  {
+   "code": "3131",
+   "total": 24,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795551758725
+  },
+  {
+   "code": "3399",
+   "total": 18,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795551840565
+  },
+  {
+   "code": "3156",
+   "total": 60,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795551882334
+  },
+  {
+   "code": "2633",
+   "total": 12,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795551963777
+  },
+  {
+   "code": "267",
+   "total": 12,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1795552100939
+  },
+  {
+   "code": "1420",
+   "total": 6,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795552143860
+  },
+  {
+   "code": "2601",
+   "total": 6,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795552156677
+  },
+  {
+   "code": "1390",
+   "total": 12,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795552242204
+  },
+  {
+   "code": "3067",
+   "total": 12,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1795552328045
+  },
+  {
+   "code": "2459",
+   "total": 36,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795552441588
+  },
+  {
+   "code": "3097",
+   "total": 18,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795552454943
+  },
+  {
+   "code": "2730",
+   "total": 12,
+   "pallet": "P1",
+   "via": "codigo",
+   "at": 1795552494432
+  },
+  {
+   "code": "3068",
+   "total": 12,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795552554280
+  },
+  {
+   "code": "1112",
+   "total": 6,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795552645836
+  },
+  {
+   "code": "2129",
+   "total": 12,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795552708142
+  },
+  {
+   "code": "2755",
+   "total": 6,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795552753902
+  },
+  {
+   "code": "1080",
+   "total": 12,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795552819234
+  },
+  {
+   "code": "1082",
+   "total": 12,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795552857785
+  },
+  {
+   "code": "1081",
+   "total": 12,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795552884981
+  },
+  {
+   "code": "569",
+   "total": 6,
+   "pallet": "P1",
+   "via": "caja",
+   "at": 1795552941501
+  },
+  {
+   "code": "712",
+   "total": 12,
+   "pallet": "P2",
+   "via": "lista",
+   "at": 1795553070921
+  },
+  {
+   "code": "541",
+   "total": 6,
+   "pallet": "P2",
+   "via": "lista",
+   "at": 1795553173170
+  },
+  {
+   "code": "186",
+   "total": 6,
+   "pallet": "P2",
+   "via": "lista",
+   "at": 1795553234107
+  },
+  {
+   "code": "53",
+   "total": 12,
+   "pallet": "P2",
+   "via": "lista",
+   "at": 1795553348225
+  },
+  {
+   "code": "1968",
+   "total": 12,
+   "pallet": "P2",
+   "via": "lista",
+   "at": 1795553419168
+  },
+  {
+   "code": "1600",
+   "total": 12,
+   "pallet": "P2",
+   "via": "lista",
+   "at": 1795553443612
+  },
+  {
+   "code": "579",
+   "total": 36,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795553594129
+  },
+  {
+   "code": "2461",
+   "total": 30,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795553650431
+  },
+  {
+   "code": "3531",
+   "total": 36,
+   "pallet": "P2",
+   "via": "lista",
+   "at": 1795553774448
+  },
+  {
+   "code": "2726",
+   "total": 60,
+   "pallet": "P2",
+   "via": "codigo",
+   "at": 1795553835590
+  },
+  {
+   "code": "1389",
+   "total": 12,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795553885322
+  },
+  {
+   "code": "3410",
+   "total": 12,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795553918492
+  },
+  {
+   "code": "3351",
+   "total": 12,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795553948844
+  },
+  {
+   "code": "2735",
+   "total": 12,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795553971931
+  },
+  {
+   "code": "15",
+   "total": 30,
+   "pallet": "P2",
+   "via": "codigo",
+   "at": 1795554041567
+  },
+  {
+   "code": "188",
+   "total": 180,
+   "pallet": "P2",
+   "via": "caja",
+   "at": 1795554067658
+  },
+  {
+   "code": "3237",
+   "total": 24,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795605820720
+  },
+  {
+   "code": "3235",
+   "total": 24,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795605864305
+  },
+  {
+   "code": "3240",
+   "total": 60,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795605907077
+  },
+  {
+   "code": "3236",
+   "total": 60,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795606036581
+  },
+  {
+   "code": "3238",
+   "total": 30,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795606221852
+  },
+  {
+   "code": "1018",
+   "total": 36,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795606297380
+  },
+  {
+   "code": "96",
+   "total": 120,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795606368065
+  },
+  {
+   "code": "580",
+   "total": 24,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795606438507
+  },
+  {
+   "code": "2361",
+   "total": 24,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795606475752
+  },
+  {
+   "code": "1022",
+   "total": 12,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795606528300
+  },
+  {
+   "code": "1581",
+   "total": 60,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795606634289
+  },
+  {
+   "code": "92",
+   "total": 24,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795606707797
+  },
+  {
+   "code": "49",
+   "total": 12,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795606779846
+  },
+  {
+   "code": "1029",
+   "total": 60,
+   "pallet": "P3",
+   "via": "codigo",
+   "at": 1795606905127
+  },
+  {
+   "code": "966",
+   "total": 240,
+   "pallet": "P4",
+   "via": "codigo",
+   "at": 1795607814090
+  },
+  {
+   "code": "1",
+   "total": 30,
+   "pallet": "P4",
+   "via": "caja",
+   "at": 1795607871458
+  },
+  {
+   "code": "327",
+   "total": 30,
+   "pallet": "P4",
+   "via": "lista",
+   "at": 1795607975634
+  },
+  {
+   "code": "2457",
+   "total": 36,
+   "pallet": "P4",
+   "via": "codigo",
+   "at": 1795608093484
+  },
+  {
+   "code": "2458",
+   "total": 36,
+   "pallet": "P4",
+   "via": "caja",
+   "at": 1795608206682
+  },
+  {
+   "code": "2464",
+   "total": 12,
+   "pallet": "P4",
+   "via": "caja",
+   "at": 1795608273536
+  },
+  {
+   "code": "219",
+   "total": 30,
+   "pallet": "P4",
+   "via": "caja",
+   "at": 1795608324200
+  },
+  {
+   "code": "90",
+   "total": 24,
+   "pallet": "P4",
+   "via": "codigo",
+   "at": 1795608369848
+  },
+  {
+   "code": "622",
+   "total": 24,
+   "pallet": "P4",
+   "via": "caja",
+   "at": 1795608393873
+  },
+  {
+   "code": "3241",
+   "total": 24,
+   "pallet": "P4",
+   "via": "codigo",
+   "at": 1795608426466
+  },
+  {
+   "code": "3239",
+   "total": 24,
+   "pallet": "P4",
+   "via": "codigo",
+   "at": 1795608453217
+  },
+  {
+   "code": "2656",
+   "total": 24,
+   "pallet": "P4",
+   "via": "lista",
+   "at": 1795608540445
+  },
+  {
+   "code": "3234",
+   "total": 60,
+   "pallet": "P4",
+   "via": "codigo",
+   "at": 1795608835688
+  },
+  {
+   "code": "1442",
+   "total": 180,
+   "pallet": "P5",
+   "via": "caja",
+   "at": 1795610208147
+  },
+  {
+   "code": "3164",
+   "total": 120,
+   "pallet": "P5",
+   "via": "lista",
+   "at": 1795610616591
+  },
+  {
+   "code": "1388",
+   "total": 12,
+   "pallet": "P5",
+   "via": "caja",
+   "at": 1795610932709
+  },
+  {
+   "code": "160",
+   "total": 12,
+   "pallet": "P5",
+   "via": "codigo",
+   "at": 1795611026755
+  },
+  {
+   "code": "2578",
+   "total": 120,
+   "pallet": "P5",
+   "via": "caja",
+   "at": 1795611152541
+  },
+  {
+   "code": "394",
+   "total": 60,
+   "pallet": "P3",
+   "via": "lista",
+   "at": 1795611428562
+  },
+  {
+   "code": "2186",
+   "total": 12,
+   "pallet": "P1",
+   "via": "lista",
+   "at": 1795612635298
+  },
+  {
+   "code": "645",
+   "total": 120,
+   "pallet": "P2",
+   "via": "lista",
+   "at": 1795553538070
+  },
+  {
+   "code": "3422",
+   "total": 30,
+   "pallet": "P5",
+   "via": "codigo",
+   "at": 1795614421843
+  }
+ ],
+ "nuevos": {
+  "7031345444689": "3531",
+  "8031303000789": "2726"
+ },
+ "cajasN": {
+  "26000571": "1389",
+  "26002032": "2463",
+  "82810107": "3410",
+  "8023354031768": "640",
+  "17802180002634": "2766",
+  "20012086331019": "2191",
+  "18428599001007": "1696",
+  "3514123322774": "2602",
+  "17802180704331": "3131",
+  "17802180001930": "3399",
+  "5601012011937": "3156",
+  "5013626000526": "1390",
+  "26002039014599": "2459",
+  "7798124010281": "3068",
+  "3514120208729": "1112",
+  "3391180019409": "2129",
+  "8002366093063": "2755",
+  "18025862216351": "1080",
+  "18025862221379": "1082",
+  "18025862223374": "1081",
+  "3292060142456": "569",
+  "26002039005405": "2461",
+  "8031303000727": "3531",
+  "8031303001076": "2726",
+  "260020390140": "2458",
+  "26002039004408": "2464",
+  "19501007301506": "1442",
+  "55601012011508": "645",
+  "5013626000694": "1388"
+ },
+ "salt": {},
+ "inicio": 1795550386040,
+ "lotes": [],
+ "fotos": [
+  "P3_cara1.jpg",
+  "P3_cara2.jpg",
+  "P3_cara3.jpg",
+  "P3_cara4.jpg",
+  "P4_cara1.jpg",
+  "P4_cara2.jpg",
+  "P4_cara3.jpg",
+  "P4_cara4.jpg",
+  "P5_cara1.jpg",
+  "P5_cara2.jpg",
+  "P5_cara3.jpg",
+  "P5_cara4.jpg",
+  "P1_cara1.jpg",
+  "P1_cara2.jpg",
+  "P1_cara3.jpg",
+  "P1_cara4.jpg",
+  "P2_cara1.jpg",
+  "P2_cara2.jpg",
+  "P2_cara3.jpg",
+  "P2_cara4.jpg",
+  "producto_2878_P1_t6y.jpg",
+  "producto_2897_P1_zt5.jpg",
+  "producto_640_P1_43w.jpg",
+  "producto_2463_P1_47y.jpg",
+  "producto_2766_P1_h7m.jpg",
+  "producto_2191_P1_2ww.jpg",
+  "producto_1696_P1_dof.jpg",
+  "producto_3024_P1_f5w.jpg",
+  "producto_2898_P1_kwr.jpg",
+  "producto_2547_P1_zkd.jpg",
+  "producto_2602_ÁREA DE ARMADO_jss.jpg",
+  "producto_3131_P1_da0.jpg",
+  "producto_3399_P1_5z7.jpg",
+  "producto_3156_P1_ec7.jpg",
+  "producto_2633_P1_asm.jpg",
+  "producto_267_P1_d8q.jpg",
+  "producto_1420_P1_non.jpg",
+  "producto_2601_P1_tsd.jpg",
+  "producto_1390_P1_1q6.jpg",
+  "producto_3067_P1_wpl.jpg",
+  "producto_2459_P1_d1z.jpg",
+  "producto_3097_P1_kip.jpg",
+  "producto_2730_P1_y4l.jpg",
+  "producto_3068_P1_lhg.jpg",
+  "producto_1112_P1_f4u.jpg",
+  "producto_2129_P1_tik.jpg",
+  "producto_2755_P1_805.jpg",
+  "producto_1080_P1_jui.jpg",
+  "producto_1082_P1_dbr.jpg",
+  "producto_1081_P1_w05.jpg",
+  "producto_569_P1_peg.jpg",
+  "producto_712_P2_ldi.jpg",
+  "producto_541_P2_17f.jpg",
+  "producto_186_P2_nsx.jpg",
+  "producto_53_P2_4wi.jpg",
+  "producto_1968_P2_r2p.jpg",
+  "producto_1600_P2_5b1.jpg",
+  "producto_579_P2_798.jpg",
+  "producto_2461_P2_ypv.jpg",
+  "producto_3531_P2_rtq.jpg",
+  "producto_2726_P2_370.jpg",
+  "producto_1389_P2_i40.jpg",
+  "producto_3410_P2_g9v.jpg",
+  "producto_3351_P2_qud.jpg",
+  "producto_2735_P2_t2q.jpg",
+  "producto_15_P2_t0g.jpg",
+  "producto_188_P2_0xz.jpg",
+  "producto_3237_P3_6le.jpg",
+  "producto_3235_P3_u4w.jpg",
+  "producto_3240_P3_jv3.jpg",
+  "producto_3236_P3_2z9.jpg",
+  "producto_3238_P3_hjm.jpg",
+  "producto_1018_P3_7kd.jpg",
+  "producto_96_P3_oer.jpg",
+  "producto_580_P3_ths.jpg",
+  "producto_2361_P3_3bw.jpg",
+  "producto_1022_P3_78i.jpg",
+  "producto_1581_P3_8hl.jpg",
+  "producto_92_P3_5t0.jpg",
+  "producto_49_P3_pwv.jpg",
+  "producto_1029_P3_3p7.jpg",
+  "producto_966_P4_8b6.jpg",
+  "producto_1_P4_mnr.jpg",
+  "producto_327_P4_tvu.jpg",
+  "producto_2457_P4_zlg.jpg",
+  "producto_2458_P4_n9a.jpg",
+  "producto_2464_P4_6uc.jpg",
+  "producto_219_P4_v5x.jpg",
+  "producto_90_P4_xvk.jpg",
+  "producto_622_P4_efo.jpg",
+  "producto_3241_P4_3ms.jpg",
+  "producto_3239_P4_cvn.jpg",
+  "producto_2656_P4_rf2.jpg",
+  "producto_3234_P4_0v7.jpg",
+  "producto_1442_P5_9uk.jpg",
+  "producto_3164_P5_krg.jpg",
+  "producto_1388_P5_qk0.jpg",
+  "producto_160_P5_7in.jpg",
+  "producto_2578_P5_zyg.jpg",
+  "producto_394_P3_3vx.jpg",
+  "producto_2186_P1_t7z.jpg",
+  "producto_3422_P5_v10.jpg"
+ ],
+ "nota": " 25/11: 2602 Côte des Roses Chardonnay pasado del área de armado a P1 (indicación de Mario)."
+}

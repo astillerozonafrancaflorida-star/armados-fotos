@@ -1,0 +1,12 @@
+*ARMADO A5564 — GEMISTER S.A*
+Armó: Mario · 24/11 15:08
+✅ Completo: 2/2 líneas OK · 4/4 botellas
+
+*Pallets:*
+*P1:* 1703 (1 cj) · 1708 (1 cj) · 📷 1/4
+
+*Códigos de barras nuevos (cargar en Odoo):*
+• 8436014243744 → 1708 VINO VEGA SICILIA UNICO 2010 750 ML
+
+*Códigos de CAJA nuevos (cargar en Odoo):*
+• 1528187778387 → 1703 VINO VEGA SICILIA UNICO 2005 750 ML (caja x2)
